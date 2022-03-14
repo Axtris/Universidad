@@ -44,7 +44,7 @@ Cree tener una necesidad o problema y la transmite al *analista.*
 
 Dentro del proceso, cada parte puede tener una **interpretación** de las necesidades del usuario, que dificulta la realizacion de una solución satisfactoria. Para eliminar dicha interpretación, se utilizan ciertas **herrramientas de precisión** que determina los lineamientos de manera precisa.
 
-### Herramientas a utilizar
+### Herramientas a utilizar {#Herramientasautilizar}
 
 - **Entrevistas**
 - **Cuestionario**
@@ -91,7 +91,7 @@ Se desarrolla en el puesto de trabajo de las personas que realizan dichas tareas
 
 #### Consultas interdisciplinarias
 
-Se realizan reuniones con diferentes profesionales de distintas materias para intercambiar informacion segun cada competencia, incluyendo tambien quienes realizan las tareas en el lugar. Primero, se debe invitar a los participantes y definir objetivos y alcances. Durante la reunion, conviene coordinarla y tomar nota. Y por ultimo, en base a lo dicho realizar un informe de la reunion.
+Se realizan **reuniones con diferentes profesionales** de distintas materias para **intercambiar informacion** segun cada competencia, incluyendo tambien quienes realizan las tareas en el lugar. Primero, se debe **invitar** a los participantes y **definir objetivos y alcances.** Durante la reunion, conviene **coordinarla y tomar nota.** Y por ultimo, en base a lo dicho realizar un **informe de la reunion.**
 
 #### Documentacion
 
@@ -99,7 +99,7 @@ Es una herramienta que involucra a todas las anteriores. Durante cada una de las
 
 #### Sistematizar la informacion
 
-Es una forma de tener informacion disponible. Si el volumen de informacion es muy grande, tenerla organizada en carpetas y archivos permite tener todo disponible. De manera mas comoda, se puede alojar toda la informacion sistematizada en la nube para poder tener acceso desde diversos dispositivos y en cualquier lugar, y los usuarios pueden alojar dicha informacion en cada seccion, pudiendo hacer mas sencilla la documentacion.
+Es una forma de tener **informacion disponible.** Si el volumen de informacion es muy grande, tenerla organizada en carpetas y archivos permite tener todo disponible. De manera mas comoda, se puede *alojar toda la informacion sistematizada en la nube* para poder tener acceso desde diversos dispositivos y en cualquier lugar, y los usuarios pueden alojar dicha informacion en cada seccion, pudiendo hacer mas sencilla la documentacion.
 
 ## Documentos
 
@@ -109,13 +109,13 @@ Es una forma de tener informacion disponible. Si el volumen de informacion es mu
 
 ### Contenido minimo del Informe Final del Estudio Preliminar
 
-- Diagnostico: en que situacion se encuentra
-- Objetivos: a donde tiene que llegar
-- Alternativas de solucion
+- **Diagnostico:** en que situacion se encuentra
+- **Objetivos:** a donde tiene que llegar
+- **Alternativas** de solucion
 
 ### Diagnostico
 
-En este punto del informe, el analista detalla la situacion en la que se encuentra la organizacion respecto del o los sistemas objeto del estudio segun el alcance dado a su tarea. Es una descripcion objetiva que estara fundamentada en las herramientas utilizadas durante el relevamiento, para evitar en mayor medida la interpretacion. Permite que cada sector tenga una vision profesional del todo.
+En este punto del informe, el analista **detalla la situacion en la que se encuentra la organizacion** respecto del o los sistemas objeto del estudio segun el alcance dado a su tarea. Es una descripcion objetiva que **estara fundamentada en las herramientas utilizadas** durante el relevamiento, para evitar en mayor medida la interpretacion. Permite que cada sector tenga una vision profesional del todo.
 
 ### Objetivos
 
@@ -149,21 +149,21 @@ Es frecuente que se entreguen junto con el informe final, donde **se detalla la 
 
 ### Requerimiento
 
-Es el documento por el cual la organizacion expresa lo que esta pidiendo, y la importancia que tiene es que permite a los proveedores cotizar el mismo servicio o necesidad. Dicho requerimiento tiene que tener 6 grandes rubros:
+Es el documento por el cual **la organizacion expresa lo que esta pidiendo,** y la importancia que tiene es que permite a los proveedores cotizar el mismo servicio o necesidad. Dicho requerimiento tiene que tener 6 grandes rubros:
 
-- **Normas legales:** Se hace referencia a las normas legales que deben tenerse en cuenta en el desarrollo del sistema, y que afecten directa o indirectamente a la organizacion. Estas incluyen a las normas legales nacionales, provinciales y municipales, resoluciones de los organismos de control, y las normas referidas a la actividad y/o tipo de organizacion.
-- **Normas tecnicas:** Hace referencia al conjunto de normas de tipo tecnico que deben aplicarse a la solucion de cada sistema en particular. Se incluyen aquellas normas generadas por procedimientos tecnicos o por la misma costumbre. La misma organizacion puede tener determinada necesidad de informacion que respondera a este punto.
-- **Entradas:** Son aquellas necesidades previsibles de ingreso de informacion al sistema. Comprende todos los elementos que pueden generar informacion, tales como el teclado, la pantalla, el scanner, microfono, etc. Se refiere a todos los metodos de entrada que tenga el sistema para poder importar informacion.
-- **Salidas:** Incluye todas las necesidades previsibles de salida de informacion del sistema. Estamos hablando de todo lo que permite exportar la informacion del sistema para los usuarios.
-- **Controles:** Trata de los procesos de control que se solicitan en las diversas etapas del procesamiento de informacion. Para esto, tanto el profesional de administracion como el profesional de sistemas permitira diseñar procedimientos que cumplan con la tecnica de desarrollo y que permitan ejecutarlos reduciendo al maximo la posibilidad de error. Gran parte de los controles van a estar vinculados a las entradas de informacion. Otra parte se refiere a los procedimientos que verifiquen la consistencia y congruencia de la informacion almacenada.
+- **Normas legales:** Se hace referencia a las **normas legales** que deben tenerse en cuenta en el desarrollo del sistema, y **que afecten directa o indirectamente a la organizacion.** Estas incluyen a las normas legales nacionales, provinciales y municipales, resoluciones de los organismos de control, y las normas referidas a la actividad y/o tipo de organizacion.
+- **Normas tecnicas:** Hace referencia al conjunto de **normas de tipo tecnico que deben aplicarse a la solucion de cada sistema en particular.** Se incluyen aquellas normas generadas por procedimientos tecnicos o por la misma costumbre. La misma organizacion puede tener determinada necesidad de informacion que respondera a este punto.
+- **Entradas:** Son aquellas necesidades previsibles de ingreso de informacion al sistema. Comprende todos los elementos que pueden generar informacion, tales como el teclado, la pantalla, el scanner, microfono, etc. Se refiere a todos los **metodos de entrada que tenga el sistema para poder importar informacion.**
+- **Salidas:** Incluye todas las **necesidades previsibles de salida de informacion del sistema.** Estamos hablando de todo lo que permite exportar la informacion del sistema para los usuarios.
+- **Controles:** Trata de los **procesos de control que se solicitan en las diversas etapas del procesamiento de informacion.** Para esto, tanto el profesional de administracion como el profesional de sistemas permitira diseñar **procedimientos que cumplan con la tecnica de desarrollo y que permitan ejecutarlos reduciendo al maximo la posibilidad de error.** Gran parte de los controles van a estar vinculados a las entradas de informacion. Otra parte se refiere a los procedimientos que **verifiquen la consistencia y congruencia de la informacion almacenada.**
 - **Seguridad:** Es una parte crucial del sistema, por lo que se definen dichas condiciones al principio. Se pueden ennumerar el control de acceso, el respaldo y recupero de la informacion, encriptado de informacion, forma y lugar de procesamiento, y actualmente consideramos la nube como paradigma.
 
 ### Presupuesto
 
-Cada potencial proveedor recibio el requerimiento de la organizacion, el cual responde a los objetivos planteados en el informe final del estudio preliminar. Su presupuesto debe responder tal requerimiento para que la organizacion pueda comparar adecuadamente todos los que reciba. Los contenidos a pedir al proveedor son:
+Cada potencial proveedor recibio el requerimiento de la organizacion, el cual responde a los objetivos planteados en el informe final del estudio preliminar. Su presupuesto **debe responder tal requerimiento para que la organizacion pueda comparar adecuadamente todos los que reciba.** Los contenidos a pedir al proveedor son:
 
-- **Descripcion:** Debe responder al requerimiento, que considere los objetivos propuestos, incluya un detalle de los resultados esperados y mencionar las formas de procesamiento propuestas.
-- **Recursos afectados:** Se debe detallar el equipamiento existente y necesario, el tiempo, tanto en el cronograma como el control de avance, los recursos economicos y financieros, es decir, importes y certificaciones, y el personal. En este ultimo, se debe considerar el personal de la empresa afectado directa o indirectamente al proyecto, las personas que han de intervenir en el proyecto pertenecientes al grupo de analisis, y la relacion funcional entre dichas personas que van a intervenir en el proyecto.
+- **Descripcion:** Debe **responder al requerimiento,** que considere los objetivos propuestos, incluya un **detalle de los resultados esperados** y mencionar las **formas de procesamiento propuestas.**
+- **Recursos afectados:** Se debe detallar el **equipamiento existente y necesario,** el **tiempo, tanto en el cronograma como el control de avance,** los **recursos economicos y financieros,** es decir, importes y certificaciones, y el **personal.** En este ultimo, se debe considerar el personal de la empresa afectado directa o indirectamente al proyecto, las personas que han de intervenir en el proyecto pertenecientes al grupo de analisis, y la relacion funcional entre dichas personas que van a intervenir en el proyecto.
 - **Propuesta economica y financiera:** Va a incluir el importe total y detalle de las formas de pago.
 - **Clausulas generales:**
 
@@ -176,13 +176,13 @@ El presupuesto de cada proveedor debe responder rigurosamente al detalle del req
 
 ### Cronograma segun las etapas de la metodologia
 
-Nos permite conocer el tiempo que nos llevaria cada etapa de la metodologia. Se prevee cuanto puede costar cada parte, aunque luego puede variar con la realidad a medida que se vaya cumpliendo dichas etapas. Pueden existir diferentes etapas superpuestas, dado que a medida que se va recibiendo informacion y progresos en una etapa, se puede trabajar en algun aspecto de la etapa posterior.
+Nos permite conocer el **tiempo que nos llevaria cada etapa de la metodologia.** Se prevee cuanto puede costar cada parte, aunque luego puede variar con la realidad a medida que se vaya cumpliendo dichas etapas. Pueden existir diferentes etapas superpuestas, dado que a medida que se va recibiendo informacion y progresos en una etapa, se puede trabajar en algun aspecto de la etapa posterior.
 
 Para el analista, conviene presupuestar y conocer la duracion de cada etapa vista segun el modelo. Pero, a efectos de poder transmitir la evolucion a quien contrata los servicios, correspondera realizar un *cronograma diferente,* donde se muestre en que parte del proceso se encuentra el sistema, y que es lo que, a grandes rasgos, se estuvo trabajando. A modo de ejemplo, se pueden detallar como etapas los *datos fijos, las operaciones, los reportes, y los controles.*
 
 # Analisis
 
-Nos permite relevar toda la informacion necesaria que permita evaluar el sistema actual y conocer sus requerimientos. Se pormenoriza hasta el ultimo detalle profundizando la tarea del estudio preliminar:
+Nos permite relevar toda la **informacion necesaria que permita evaluar el sistema actual y conocer sus requerimientos.** Se pormenoriza hasta el ultimo detalle profundizando la tarea del estudio preliminar:
 
 - Recolectar informacion del sistema actual.
 - Realizar un diagnostico de la situacion actual.
@@ -207,7 +207,7 @@ Nos permite relevar toda la informacion necesaria que permita evaluar el sistema
 
 ## Herramientas
 
-Son las mismas herramientas que se usan en el estudio preliminar, pero profundizando su empleo, aplicando el criterio de factorizacion progresiva, llegando hasta el ultimo detalle de cada componente.
+Son las mismas herramientas que se usan en el [estudio preliminar,](#Herramientasautilizar) pero profundizando su empleo, aplicando el criterio de factorizacion progresiva, llegando hasta el ultimo detalle de cada componente.
 
 ## Documentacion
 
@@ -227,7 +227,7 @@ La extension y profunidad del relevamiento debe ser limitada para no *ahogarse* 
 
 # Diseño general
 
-En esta etapa debemos lograr tener una vision general del sistema o modulo objeto de estudio y de su relacion con el resto de los modulos. Al diseñar el nuevo sistema, nuevamente se aplicara el criterio de factorizacion.
+En esta etapa debemos lograr tener una **vision general del sistema o modulo objeto de estudio y de su relacion con el resto de los modulos.** Al diseñar el nuevo sistema, nuevamente se aplicara el criterio de factorizacion.
 
 ## Objetivos
 
@@ -254,15 +254,15 @@ En esta etapa debemos lograr tener una vision general del sistema o modulo objet
 
 Se tratara de plasmar en algunas herramientas graficas el concepto del sistema y su interrelacion con los demas modulos.
 
-- **Interdependencia modular o sectorial:** Toda cosa es un sistema o componente de un sistema. Lo que nos permite esta herramienta es entender como se relacionan los diferentes modulos entre si, que partes los componen y como actuan en otros modulos cuando se modifican ciertos datos.
-- **Mapa de procesos:** Es un mapa conceptual en el cual vamos haciendo un recorrido por los diversos procesos que componen un proyecto y los presentamos de la misma forma en que los vera relacionados el usuario en su menu de opciones. Se comienza a partir de un menu principal; luego se divide en un menu donde se cargan datos fijos, tales como datos de clientes, un menu auxiliar para poder cargar datos de comprobantes, tipos de responsables, y secciones de la empresa; un menu de operaciones, para cargar operaciones transitorias y definitivas; ademas de diferentes procesos necesarios segun los requerimientos de la organizacion.
-- **Diagrama de sistema \(entrada/salida):** A los efectos de graficar las entradas y salidas de un programa, es conveniente el uso de diagramas especiales que tienen por objetivo poner de relieve las tablas utilizadas en el mismo y su modo de apertura. Nos conviene usar una que nos permita visualizar rapidamente un proceso y sus datos. Las figuras describen su funcion:
+- **Interdependencia modular o sectorial:** Toda cosa es un sistema o componente de un sistema. Lo que nos permite esta herramienta es **entender como se relacionan los diferentes modulos entre si, que partes los componen y como actuan en otros modulos cuando se modifican ciertos datos.**
+- **Mapa de procesos:** Es un mapa conceptual en el cual vamos haciendo un **recorrido por los diversos procesos que componen un proyecto** y los presentamos de la misma forma en que los vera relacionados el usuario en su menu de opciones. Se comienza a partir de un **menu principal;** luego se divide en un menu donde se cargan **datos fijos,** tales como datos de clientes, un menu auxiliar para poder cargar datos de comprobantes, tipos de responsables, y secciones de la empresa; un **menu de operaciones,** para cargar operaciones transitorias y definitivas; ademas de diferentes **procesos necesarios** segun los requerimientos de la organizacion.
+- **Diagrama de sistema \(entrada/salida):** A los efectos de graficar las entradas y salidas de un programa, es conveniente el uso de diagramas especiales que tienen por objetivo **poner de relieve las tablas utilizadas en el mismo y su modo de apertura.** Nos conviene usar una que nos permita visualizar rapidamente un proceso y sus datos. Las figuras describen su funcion:
 
-    - Rectangulo: se pone la descripcion del proceso, con una division donde en la parte inferior se escribe el nombre del proceso, el cual debe ser el mismo que usamos en el mapa de procesos.
-    - Rectangulo redondeado: expresa la terminal que permite la entrada y salida de datos
-    - Figura de salida: dibujado como un cuadrado rasgado, nos indica la salida del proceso usando un formato de reporte.
-    - Datos almacenados: muestran los datos que entran al proceso y los que salen, los cuales surgen de las tablas o archivos del sistema, y su almacenamiento en disco o recursos similares.
-    - Flecha de entrada o salida: indican el flujo de los datos desde y hacia el proceso.
+    - **Rectangulo:** se pone la **descripcion del proceso,** con una division donde en la parte inferior se escribe el nombre del proceso, el cual debe ser el mismo que usamos en el mapa de procesos.
+    - **Rectangulo redondeado:** expresa la **terminal** que permite la entrada y salida de datos
+    - **Figura de salida:** dibujado como un cuadrado rasgado, nos indica la salida del proceso usando un formato de reporte.
+    - **Datos almacenados:** muestran los datos que entran al proceso y los que salen, los cuales surgen de las tablas o archivos del sistema, y su almacenamiento en disco o recursos similares.
+    - **Flecha de entrada o salida:** indican el flujo de los datos desde y hacia el proceso.
 
 ## Caracteristicas del diseño general
 
@@ -281,27 +281,27 @@ Principalmente el Jefe de Proyecto y Gerencia, con activa participacion de usuar
 
 ![Jerarquia de datos](https://raw.githubusercontent.com/Axtris/Uni/main/Res%C3%BAmenes/images/Resumen%20ASA/Jerarquia_Datos.png)
 
-- Bit: es la minima porcion de informacion que puede manejar un equipamiento, correspondiente a un digito binario \(cero o uno), que puede determinarse como un valor booleano. Es el espacio necesario para almacenar un valor binario en una memoria de ordenador.
-- Byte: es un conjunto de bits. Con un byte se pueden representar caracteres, tales como letras, numeros, signos, etc. Es la unidad de informacion de base utilizada en computacion y en telecomunicaciones, que equivale a un conjunto ordenado de bits. Se pueden representar hasta 256 valores diferentes.
-- Campo - Variable: es un conjunto de bytes que permiten almacenar informacion. Se usa dicho concepto en los registros de una tabla, y el de variable para la memoria de la computadora. Desde el punto de vista logico, un campo permite almacenar un atributo de un sujeto.
-- Registro: es un conjunto de campos que almacena la informacion de una fila de la tabla. Desde el punto de vista logico, permitira almacenar el conjunto de datos de un sujeto. Es el conjunto de atributos de un sujeto determinado en un modulo o sistema.
-- Archivo - Tabla: es un conjunto de registros. Es considerado como el conjunto de sujetos de un modulo o sistema. Toda la informacion que se procesa dentro del modulo o sistema se encuentra agrupada en tablas o archivos.
-- Base de datos: es un conjunto de tablas o archivos relacionados entre si. Se considera que es un sistema de datos relacionados con una redundancia minima de informacion almacenada. Permite almacenar los datos y luego acceder a los mismos de forma rapida y estructurada. Puede agrupar toda la informacion de un modulo o incluir a todos los modulos de la organizacion. Mantiene relaciones funcionales entre los datos de tal manera de asegurar la integridad referencial de los mismos.
-- Almacen de datos: es una coleccion de datos orientada a un determinado ambito, integrado, no volatil y variable en el tiempo, que ayuda a la toma de decisiones en la entidad en la que se utiliza. Se usa para realizar informes y analisis de datos. Se trata de un expediente completo de una organizacion, mas alla de la informacion transaccional y operacional, almacenado en una base de datos diseñada para favorecer el analisis y la divulgacion eficiente de datos.
+- **Bit:** es la **minima porcion de informacion que puede manejar un equipamiento,** correspondiente a un digito binario \(cero o uno), que puede determinarse como un valor booleano. Es el espacio necesario para almacenar un valor binario en una memoria de ordenador.
+- **Byte:** es un conjunto de bits. Con un byte se pueden **representar caracteres,** tales como letras, numeros, signos, etc. Es la **unidad de informacion de base** utilizada en computacion y en telecomunicaciones, que equivale a un conjunto ordenado de bits. Se pueden representar hasta 256 valores diferentes.
+- **Campo - Variable:** es un conjunto de bytes que **permiten almacenar informacion.** Se usa dicho concepto en los registros de una tabla, y el de variable para la memoria de la computadora. Desde el punto de vista logico, un campo **permite almacenar un atributo de un sujeto.**
+- **Registro:** es un conjunto de campos que **almacena la informacion de una fila de la tabla.** Desde el punto de vista logico, permitira almacenar el **conjunto de datos de un sujeto.** Es el conjunto de atributos de un sujeto determinado en un modulo o sistema.
+- **Archivo - Tabla:** es un **conjunto de registros.** Es considerado como el conjunto de sujetos de un modulo o sistema. Toda la informacion que se procesa dentro del modulo o sistema se encuentra agrupada en tablas o archivos.
+- **Base de datos:** es un conjunto de **tablas o archivos relacionados entre si.** Se considera que es un **sistema de datos relacionados con una redundancia minima de informacion almacenada.** Permite almacenar los datos y luego acceder a los mismos de forma rapida y estructurada. Puede agrupar toda la informacion de un modulo o incluir a todos los modulos de la organizacion. **Mantiene relaciones funcionales entre los datos de tal manera de asegurar la integridad referencial de los mismos.**
+- **Almacen de datos:** es una **coleccion de datos orientada a un determinado ambito, integrado, no volatil y variable en el tiempo,** que ayuda a la toma de decisiones en la entidad en la que se utiliza. Se usa para realizar informes y analisis de datos. Se trata de un expediente completo de una organizacion, mas alla de la informacion transaccional y operacional, almacenado en una base de datos diseñada para favorecer el analisis y la divulgacion eficiente de datos.
 
 ### Tipos de archivos o tablas segun la informacion almacenada
 
-- Maestros: Contienen informacion mas o menos permanente referida a los datos que constituyen la base de un sistema de informacion, tales como datos fijos de empleados y clientes, o tablas de sueldos basicos.
-- Auxiliares: Se encuentran presentes en todos los procesos administrativos, que se usan especialmente para facilitar el empleo de determinados datos que se pueden codificar en forma simple. Se usa para codificar la situacion de los contribuyentes, los tipos de documentos, etc.
-- Operaciones: Son archivos o tablas que contienen el conjunto de informacion detallada de un sistema. Pueden usarse para actualizar los datos contenidos en archivos maestros de un sistema.  
-- Temporales: Se generan por razones tecnicas u operativas, y pueden ser borradas luego de haber cumplido su proposito. Pueden denominarse tambien como tablas transitorias o borradores.
-- De control: Se usan para el control de procesos o para conservar datos necesarios a todos los procesos que pueden ejecutarse en un sistema. Tales como los datos de la ultima emision del libro diario, el ultimo numero de cliente, datos para resumenes de cuenta. Por lo general suelen ser archivos muy pequeños.
+- **Maestros:** Contienen **informacion mas o menos permanente** referida a los datos que constituyen la base de un sistema de informacion, tales como datos fijos de empleados y clientes, o tablas de sueldos basicos.
+- **Auxiliares:** Se encuentran presentes en todos los procesos administrativos, que se usan especialmente para **facilitar el empleo de determinados datos que se pueden codificar en forma simple.** Se usa para codificar la situacion de los contribuyentes, los tipos de documentos, etc.
+- **Operaciones:** Son archivos o tablas que contienen el **conjunto de informacion detallada de un sistema.** Pueden usarse para actualizar los datos contenidos en archivos maestros de un sistema.  
+- **Temporales:** Se generan por **razones tecnicas u operativas,** y pueden ser borradas luego de haber cumplido su proposito. Pueden denominarse tambien como tablas transitorias o borradores.
+- **De control:** Se usan para el **control de procesos o para conservar datos necesarios** a todos los procesos que pueden ejecutarse en un sistema. Tales como los datos de la ultima emision del libro diario, el ultimo numero de cliente, datos para resumenes de cuenta. Por lo general suelen ser archivos muy pequeños.
 
 # Diseño detallado
 
-En la etapa de desarrollo se debe traducir el diseño conceptual en terminos que puedan ser operativos y expresados a traves de un programa de computadora. Se buscara llegar al mayor detalle posible para su posterior programacion.
+En la etapa de desarrollo se debe **traducir el diseño conceptual en terminos que puedan ser operativos** y expresados a traves de un programa de computadora. Se buscara llegar al mayor detalle posible para su posterior programacion.
 
-## objetivos
+## Objetivos
 Especificar y diseñar con el maximo grado de detalle cada uno de los subsistemas identificados en la fase anterior.
 
 ## Tareas
@@ -321,8 +321,8 @@ Se tratara de usar todas las herramientas disponibles, algunas sumamente tecnica
     - Nombre del o los registros
     - Descripcion narrada de un registro y su contenido
 
-- **Diagrama de Entidad/Relacion:** Presenta las relaciones existentes en una base de datos entre las tablas y como se establecen a traves de campos de dichas tablas.
-- **Diccionario:** El diccionario de datos es un listado organizado de todos los datos pertinentes al sistema, con definiciones precisas y rigurosas para que tanto el usuario como el analista tengan un entendimiento comun de todas las entradas, salidas, componentes de almacenes y calculos intermedios. Sin un diccionario formal que defina el significado de los terminos, no se puede esperar precision. Este lo crea el analista durante el desarrollo del modelo del sistema, pero el usuario debe ser capaz de leerlo y entenderlo para poder verificar el modelo. Junto al diccionario de datos aparece el diccionario de procesos, que contiene las caracteristicas logicas de los sitios donde se almacenan los datos del sistema. Tambien identifica los procesos donde se emplean los datos y los sitios donde se necesita el acceso inmediato a la informacion; se desarrolla durante el analisis de flujo de datos y auxilia a los analistas que participan en la determinacion de los requerimientos del sistema, su contenido tambien se emplea durante el diseño.
+- **Diagrama de Entidad/Relacion:** Presenta las **relaciones existentes en una base de datos** entre las tablas y como se establecen a traves de campos de dichas tablas.
+- **Diccionario:** El diccionario de datos es un **listado organizado de todos los datos pertinentes al sistema,** con **definiciones precisas y rigurosas** para que tanto el usuario como el analista tengan un **entendimiento comun** de todas las entradas, salidas, componentes de almacenes y calculos intermedios. Sin un diccionario formal que defina el significado de los terminos, no se puede esperar precision. Este lo crea el analista durante el desarrollo del modelo del sistema, pero el usuario debe ser capaz de leerlo y entenderlo para poder verificar el modelo. Junto al diccionario de datos aparece el diccionario de procesos, que contiene las **caracteristicas logicas de los sitios donde se almacenan los datos del sistema.** Tambien identifica los procesos donde se emplean los datos y los sitios donde se necesita el acceso inmediato a la informacion; se desarrolla durante el analisis de flujo de datos y auxilia a los analistas que participan en la determinacion de los requerimientos del sistema, su contenido tambien se emplea durante el diseño.
 - **Definicion de registros:** Para cada uno de los archivos o tablas dentro del modulo, se debe realizar una descripcion detallada de cada uno de los campos que contendra:
 
     - Nombre del registro
@@ -346,11 +346,11 @@ Se tratara de usar todas las herramientas disponibles, algunas sumamente tecnica
 
 - **Herramientas para la logica de los procesos:** Existen herramientas que se pueden usar para definir claramente cada situacion.
 
-    - **Tablas de decision:** Permitira definir con toda precision las acciones a realizar asi como las condiciones que deben contemplarse. Se divide en una tabla de cuatro cuadrantes, en donde los cuadrantes izquierdos describen las definiciones de las condiciones y las acciones, y en los cuadrantes derechos estaran los valores de dichas condiciones y acciones. Admiten una cantidad limitada de condiciones y una cantidad grande de acciones. La solucion la definimos en el cuadrante inferior derecho.
+    - **Tablas de decision:** Permitira definir con toda precision las **acciones a realizar** asi como las **condiciones que deben contemplarse.** Se divide en una tabla de cuatro cuadrantes, en donde los cuadrantes izquierdos describen las definiciones de las condiciones y las acciones, y en los cuadrantes derechos estaran los valores de dichas condiciones y acciones. Admiten una cantidad limitada de condiciones y una cantidad grande de acciones. La solucion la definimos en el cuadrante inferior derecho.
 
-        - Primero, intentamos separar las condiciones de las acciones. Para esto, tenemos que hacer definiciones que se veran reflejadas en el diccionario para poder dar una solucion precisa, eliminando interpretaciones.
-        - Luego, plasmamos las condiciones, y determinamos el valor de las condiciones segun la cantidad de opciones de cada condicion y sus alternativas.
-        - Por ultimo, asignamos un valor a cada accion segun la combinacion de cada condicion.
+        - Primero, intentamos separar las condiciones de las acciones. Para esto, tenemos que hacer **definiciones** que se veran reflejadas en el diccionario para poder dar una solucion precisa, eliminando interpretaciones.
+        - Luego, plasmamos las condiciones, y determinamos el **valor de las condiciones** segun la cantidad de opciones de cada condicion y sus alternativas.
+        - Por ultimo, asignamos un **valor a cada accion** segun la combinacion de cada condicion.
         - En caso de existir combinaciones que, al cambiar la ultima condicion, el valor de las acciones es igual, se considera una indiferencia o redundancia
         - Ademas, se pueden presentar incongruencias en donde los valores de dos condiciones no tengan sentido en la vida real, pero se toman en cuenta en caso de que exista una varicion en la definicion. A fines practicos las incongruencias no expresan un problema, dado que son situaciones que no se van a dar en principio.
 
@@ -419,11 +419,11 @@ Queda a cargo del analista de sistemas con alguna participacion del usuario y co
 
 # Construccion
 
-Se trata de la programacion o codificacion en un lenguaje determinado. Se desarrollan los procedimientos y/o programas de computacion que satisfagan las especificaciones definidas en la fase anterior.
+Se trata de la **programacion o codificacion en un lenguaje determinado.** Se desarrollan los procedimientos y/o programas de computacion que satisfagan las especificaciones definidas en la fase anterior.
 
 ## Objetivos
 
-Desarrollar y realizar la puesta a punto de los programas de computacion de acuerdo a lo especificado en la fase anterior, y elaborar las normas, instrucciones y formularios correspondientes a los procedimientos administrativos
+**Desarrollar y realizar la puesta a punto de los programas de computacion** de acuerdo a lo especificado en la fase anterior, y elaborar las normas, instrucciones y formularios correspondientes a los procedimientos administrativos
 
 ## Tareas
 
@@ -480,17 +480,17 @@ Al ver la seguridad como un **conjunto de medidas,** tenemos que establecer dich
 
 Hay tres aspectos a **proteger** en los sistemas administrativos:
 
-- Confidencialidad: previene la divulgacion de informacion a personas o sistemas no autorizados. Requiere que la informacion sea accesible unicamente por las entidades autorizadas.
-- Integridad: busca mantener a los datos libres de modificaciones no autorizadas. Incluye a todos los recursos informaticos.
-- Disponibilidad: es la caracteristica, cualidad o condicion de la informacion de encontrarse a disposicion de quienes deben acceder a ella.
+- **Confidencialidad:** previene la divulgacion de informacion a personas o sistemas no autorizados. Requiere que la informacion sea accesible unicamente por las entidades autorizadas.
+- **Integridad:** busca mantener a los datos libres de modificaciones no autorizadas. Incluye a todos los recursos informaticos.
+- **Disponibilidad:** es la caracteristica, cualidad o condicion de la informacion de encontrarse a disposicion de quienes deben acceder a ella.
 
 Cuando hablamos de **recursos informaticos,** nos referimos a todo lo que hace que el sistema funcione:
 
-- Hardware: sistema fisico
-- Software: sistema logico o programas
-- Instalaciones: edificios y sus instalaciones, provision de energia, redes informaticas.
-- Informacion: es el activo mas importante de los sistemas de informacion. Son las bases de datos.
-- Personas: es el activo mas importante de la organizacion. Debe extremarse la seguridad para protegerlas.
+- **Hardware:** sistema fisico
+- **Software:** sistema logico o programas
+- **Instalaciones:** edificios y sus instalaciones, provision de energia, redes informaticas.
+- **Informacion:** es el activo mas importante de los sistemas de informacion. Son las bases de datos.
+- **Personas:** es el activo mas importante de la organizacion. Debe extremarse la seguridad para protegerlas.
 
 Para estudiar la seguridad en una organizacion, vamos a utilizar el analisis FODA que surga de dicho ente.
 
@@ -519,13 +519,13 @@ Se pueden clasificar en internas o externas segun las comete; si son ataques pas
 
 El estudio FODA es una **foto** de la situacion de la organizacion en un momento especifico. Luego, correspondera actuar en funcion del analisis previamente hecho.
 
-Las consecuencias de que se concreten las amenazas nos impiden procesar normalmente. Esto genera que no se pueda procesar en el sistema, existan perdidas o modificaciones de archivos o registros, generen fallas o destruccion de equipos e instalaciones, y se altere la informacion o los resultados de los procesos. Otra consecuencia tiene que ver con la imagen de la organizacion, que ocurre cuando existen accesos indebidos, se usan los recursos informaticos indebidamente, se divulgue la informacion que maneja la organizacion, exista desconfianza interna y externa en la informacion obtenida. Esto genera una perdida de confianza en la organizacion, perjudicando su imagen.
+Las **consecuencias** de que se concreten las amenazas nos impiden procesar normalmente. Esto genera que no se pueda **procesar en el sistema,** existan **perdidas o modificaciones de archivos o registros,** generen **fallas o destruccion de equipos e instalaciones,** y se **altere la informacion o los resultados de los procesos.** Otra consecuencia tiene que ver con la **imagen de la organizacion,** que ocurre cuando existen accesos indebidos, se usan los recursos informaticos indebidamente, se divulgue la informacion que maneja la organizacion, exista desconfianza interna y externa en la informacion obtenida. Esto genera una perdida de confianza en la organizacion, perjudicando su imagen.
 
-Para decidir sobre nuestra seguridad, debemos detectar las amenaza, determinar las debilidades y evaluar las fortalezas. En funcion a esto, tenemos que estimar la probabilidad de que una amenaza se concrete frente a nuestras debilidades y fortalezas. Luego de determinar la probabilidad, tenemos que distinguir las oportunidades que brinda el medio. Al saber esto, debemos ponderar las consecuencias y costos de cada amenaza, y determinar los costos de las medidas de seguridad. En base a esto, decidiremos sobre las medidas de seguridad apropiadas para nuestra organizacion.
+Para decidir sobre nuestra seguridad, debemos **detectar las amenaza, determinar las debilidades y evaluar las fortalezas.** En funcion a esto, tenemos que **estimar la probabilidad** de que una amenaza se concrete frente a nuestras debilidades y fortalezas. Luego de determinar la probabilidad, tenemos que **distinguir las oportunidades** que brinda el medio. Al saber esto, debemos **ponderar las consecuencias y costos** de cada amenaza, y determinar los costos de las medidas de seguridad. En base a esto, **decidiremos sobre las medidas de seguridad apropiadas** para nuestra organizacion.
 
 ## Plan de seguridad - Modulo 2
 
-El plan de seguridad esta formado por un conjunto de medidas preventivas, detectivas y correctivas que tienen por objetivo proteger la integridad, confidencialidad y disponibilidad de los recursos o activos informaticos, tales como hardware, software, instalaciones, informacion y personas.
+El plan de seguridad esta formado por un conjunto de **medidas preventivas, detectivas y correctivas** que tienen por objetivo proteger la integridad, confidencialidad y disponibilidad de los recursos o activos informaticos, tales como hardware, software, instalaciones, informacion y personas.
 
 Los requisitos indispensables del plan son:
 
@@ -534,7 +534,7 @@ Los requisitos indispensables del plan son:
 - Transmitida a todos los niveles
 - Asignacion de recursos
 
-Se le debe asignar responsables al plan en todos los niveles, tanto en el area de sistemas, auditores, usuarios, seguridad general, y un consultor externo, segun si lo necesita dicha organizacion.
+Se le debe **asignar responsables** al plan en todos los niveles, tanto en el area de sistemas, auditores, usuarios, seguridad general, y un consultor externo, segun si lo necesita dicha organizacion.
 
 Los contenidos minimos del plan son:
 
@@ -558,11 +558,11 @@ Podemos hacer un esquema de amenazas con los siguientes requisitos:
 
 ## Plan de contingencias - Modulo 3
 
-El plan de contingencias busca asegurar la continuidad de trabajo en todos los sistemas, limitando las consecuencias de una amenaza que se concreta, y recuperar la capacidad de procesamiento en el menor tiempo y al menor costo. Queremos recuperar los recursos informaticos protegiendo a las personas.
+El plan de contingencias busca **asegurar la continuidad de trabajo en todos los sistemas, limitando las consecuencias de una amenaza que se concreta, y recuperar la capacidad de procesamiento en el menor tiempo y al menor costo.** Queremos recuperar los recursos informaticos protegiendo a las personas.
 
-Se establecen los roles de cada uno y que tiene que hacer cada cosa. Tiene que contemplar los llamados a los servicios de emergencia, a los responsables de seguridad y al personal capacitado. Luego, se debe programar la recuperacion de los sistemas operativos, los utilitarios, los aplicativos y los datos de la organizacion que tengan relacion con todo el sistema en general. Ademas, tenemos que programar la puesta en marcha del equipamiento, incluyendo las instalaciones, equipos, redes y perifericos.
+Se **establecen los roles de cada uno** y quien tiene que hacer cada cosa. Tiene que contemplar los llamados a los servicios de emergencia, a los responsables de seguridad y al personal capacitado. Luego, se debe **programar la recuperacion** de los sistemas operativos, los utilitarios, los aplicativos y los datos de la organizacion que tengan relacion con todo el sistema en general. Ademas, tenemos que **programar la puesta en marcha** del equipamiento, incluyendo las instalaciones, equipos, redes y perifericos.
 
-Para aplicarlo con exito, tenemos que tener pruebas del plan de contingencias, ensayandolo periodicamente y su concrecion para tener ensayado dicho plan. Se debe dictaminar al responsable de su elaboracion, que esté formulado por escrito, difundirse adecuadamente, verificarse su comprension, y revisar su validez, tanto de contenidos como de propositos.
+Para aplicarlo con exito, tenemos que tener **pruebas** del plan de contingencias, **ensayandolo periodicamente y su concrecion para tener ensayado dicho plan.** Se debe dictaminar al responsable de su elaboracion, que esté formulado por escrito, difundirse adecuadamente, verificarse su comprension, y revisar su validez, tanto de contenidos como de propositos.
 
 Si vemos las principales dificultades que se pueden presentar para implementarlo, podemos tener en cuenta:
 
@@ -577,35 +577,35 @@ Si vemos las principales dificultades que se pueden presentar para implementarlo
 
 - Principales medidas a considerar:
 
-    - Copias de seguridad:
+    - **Copias de seguridad:**
 
-        - Segun su modalidad de copia:
+        - Segun su **modalidad** de copia:
 
-            - Total: se realiza una copia de todos los archivos, permitiendo tener una restauracion completa de cada vez que se hace.
-            - Diferencial: el sistema detecta que se cambio desde la ultima copia completa, y para su restauracion usa tanto la copia completa como la ultima copia diferencial realizada.  
-            - Incremental: a partir de la ultima copia completa, se hace una copia de lo que cambio en funcion del periodo anterior. Al hacer una restauracion, se va a necesitar la copia completa mas todas las copias incrementales realizadas a la fecha.
+            - **Total:** se realiza una copia de todos los archivos, permitiendo tener una restauracion completa de cada vez que se hace.
+            - **Diferencial:** el sistema detecta que se cambio desde la ultima copia completa, y para su restauracion usa tanto la copia completa como la ultima copia diferencial realizada.  
+            - **Incremental:** a partir de la ultima copia completa, se hace una copia de lo que cambio en funcion del periodo anterior. Al hacer una restauracion, se va a necesitar la copia completa mas todas las copias incrementales realizadas a la fecha.
 
-        - Segun su forma de hacerlo:
+        - Segun su **forma** de hacerlo:
 
             - Manual
             - Automatica
 
-        - Multiples soportes de destino:
+        - Multiples **soportes** de destino:
 
             - Fisicos
             - Virtuales
 
-    - Proteccion ante accesos indebidos:
+    - **Proteccion** ante accesos indebidos:
 
-        - Seguridad en internet: Los cambios que obligan a adoptar medidas para la proteccion de la informacion, la proliferacion del hacking, la creciente extension de las redes de las empresas, su integracion con internet y su uso masivo, hace necesario una vigilancia permanente del estado de la seguridad de los sistemas. Para reducir el riesgo, podemos aplicar ciertas medidas, tales como:
+        - **Seguridad en internet:** Los cambios que obligan a adoptar medidas para la proteccion de la informacion, la proliferacion del hacking, la creciente extension de las redes de las empresas, su integracion con internet y su uso masivo, hace necesario una vigilancia permanente del estado de la seguridad de los sistemas. Para reducir el riesgo, podemos aplicar ciertas medidas, tales como:
 
-            - Evitar accesos locales por parte de personas no deseadas
-            - Evitar la contaminacion del equipo por parte de elementos que puedan dañar o ralentizar el funcionamiento del mismo, y que se aprovechan fundamentalmente de los sistemas de almacenamiento portatiles y/o de los sistemas de comunicacion
-            - Evitar agujeros de seguridad mediante el mantenimiento actualizado del equipo informatico, su sistema operativo y los programas que utilicemos.
+            - **Evitar accesos locales** por parte de personas no deseadas
+            - **Evitar la contaminacion del equipo** por parte de elementos que puedan dañar o ralentizar el funcionamiento del mismo, y que se aprovechan fundamentalmente de los sistemas de almacenamiento portatiles y/o de los sistemas de comunicacion
+            - **Evitar agujeros de seguridad** mediante el mantenimiento actualizado del equipo informatico, su sistema operativo y los programas que utilicemos.
 
         Exsiten riesgos de la navegacion, tales como el robo de identidad, virus, gusanos, troyanos, spyware, hacking, estafas online, spam, contenidos web inapropiados. Para protegernos de estos riesgos, hay que mantener actualizado el sistema operativo y el soft instalado, cambiar periodicamente las contraseñas de acceso al sistema, e instalar y mantener actualizado un programa antivirus. Como proteccion general, convendra tener configurado un firewall o cortafuegos, y un filtrado de informacion.
 
-        - Virus y otro software malicioso: La finalidad de un virus o malware responde a amenazas intencionales o no. En principio, no existe motivacion economica. Las recomendaciones realizadas son:
+        - **Virus y otro software malicioso:** La finalidad de un virus o malware responde a amenazas intencionales o no. En principio, no existe motivacion economica. Las recomendaciones realizadas son:
 
             - Usar un antivirus
             - Tener un firewall
@@ -617,7 +617,7 @@ Si vemos las principales dificultades que se pueden presentar para implementarlo
             - Restricciones en el uso del correo electronico
             - Existencia de un plan de contingencias
 
-        - Claves de seguridad: Es el uso de contraseñas y factores de autenticacion para acceder a los diferentes servicios que necesitemos. Es la primera linea de defensa contra los ataques ciberneticos. Ademas de usar la contraseña como un factor de acceso, se pueden usar diferentes factores de autenticacion que permitan al usuario confirmar si el acceso realizado esta autorizado o no, y puede detectar si hubo intenciones de un acceso desconocido al sistema, mediantes confirmaciones por correo electronico, mensajes de texto, preguntas de verificacion de identidad, o un token de seguridad especifico. Se recomienda que las contraseñas sean distintas y dificiles de averiguar, se reestablezcan en forma peridoca, se usen diferentes caracteres, y sean de una longitud importante para que el costo de fuerza bruta sea mucho mayor para el atacante.
+        - **Claves de seguridad:** Es el **uso de contraseñas y factores de autenticacion para acceder a los diferentes servicios que necesitemos.** Es la primera linea de defensa contra los ataques ciberneticos. Ademas de usar la contraseña como un factor de acceso, se pueden usar diferentes factores de autenticacion que permitan al usuario confirmar si el acceso realizado esta autorizado o no, y puede detectar si hubo intenciones de un acceso desconocido al sistema, mediantes confirmaciones por correo electronico, mensajes de texto, preguntas de verificacion de identidad, o un token de seguridad especifico. Se recomienda que las contraseñas sean distintas y dificiles de averiguar, se reestablezcan en forma peridoca, se usen diferentes caracteres, y sean de una longitud importante para que el costo de fuerza bruta sea mucho mayor para el atacante.
 
 # Prueba y conversion
 
@@ -638,7 +638,7 @@ Se instalaran equipos, se acondicionaran locales, se tomaran cursos de capacitac
 
 ## Herramientas a usar
 
-- **Tecnicas de simulacion:** Se podria definir como un medio que experimenta con un modelo detallado de un sistema real para determinar como respondera el sistema a los cambios en su estructura o entorno, y realizar mejoras en caso de ser necesarias. Pretende imitar el comportamiento del sistema real, evolucionando como este, ademas de estudiar la evolucion del sistema en el tiempo. Se insertan varios *inputs* a un sistema y proporcionan un modelo para evaluar o volver a diseñar y medir o cuantificar factores tan importantes como la satisfaccion del cliente, el uso de recursos, el proceso de reingenieria y el tiempo invertido en todo ello.   
+- **Tecnicas de simulacion:** Se podria definir como un **medio que experimenta con un modelo detallado de un sistema real para determinar como respondera el sistema a los cambios en su estructura o entorno,** y realizar mejoras en caso de ser necesarias. Pretende imitar el comportamiento del sistema real, evolucionando como este, ademas de estudiar la evolucion del sistema en el tiempo. Se insertan varios *inputs* a un sistema y proporcionan un modelo para evaluar o volver a diseñar y medir o cuantificar factores tan importantes como la satisfaccion del cliente, el uso de recursos, el proceso de reingenieria y el tiempo invertido en todo ello.   
 - **Prueba de escritorio:** Esta prueba se realiza preparando los datos en el *escritorio,* para ello se utilizaran diversas herramientas que nos permitan crear un lote de informacion y obtener los resultados esperados que luego se cotejaran con los resultados obtenidos del sistema. La prueba tiene una asignacion de personal, en donde tiene que dirigirla un profesional que tenga conocimientos de administracion en general, del modulo en desarrollo, y de TICs en general; ademas de un desarrollador y un operador. En el inicio de la prueba, se deben usar exactamente el mismo lote de datos, y documentar paso a paso. Durante la prueba, se designa a un responsable general de la prueba, se cargan en el sistema los datos preparados, documentar los resultados, y enviar al desarrollador las solicitudes de cambios. Se finaliza la prueba cuando se encuentren depurados todos los cambios solicitados, y se emitira un informe final. Dicho informe es interno del equipo de desarrollo, donde se informara y documentara los resultados obtenidos en base a los requerimientos planteados. No se puede opinar sobre los objetivos propuestos, dado que no se hizo ninguna prueba en la organizacion.
 
     **Ventajas:**
@@ -654,7 +654,26 @@ Se instalaran equipos, se acondicionaran locales, se tomaran cursos de capacitac
     - El uso de datos simulados y en escaso volumen puede implicar que no se evalue el sistema con la exigencia de la empresa
 
  Se trata de una prueba realizada en el ambito del desarrollo, que resulta muy util para verificar el cumplimiento del sistema en todas las situaciones imaginables dentro de los parametros del requerimiento.
-- **Prueba en paralelo:** 
+- **Prueba en paralelo:** Consiste en **mantener el funcionamiento el viejo sistema mientras que, en forma paralela, se pone en funcionamiento el nuevo sistema.** Al comenzar la prueba, tenemos que hacer un trabajo previo de conversion de datos de un sistema a otro, la instalacion completa de todo el equipamiento, y la asignacion de personal. En el inicio de la prueba, tenemos que igualar la situacion de ambos sistemas, iniciando con los mismos datos historicos. Durante la prueba, se debe designar un responsable general de la prueba, verificar la carga en ambos sistemas, determinar la duracion total de la prueba y cada cuanto se hace un control periodico de resultados, predefiniendo periodos fijos y que los resultados sean comparables. La prueba sirve como una capacitacion del personal efectiva, dado que dichos usuarios que realizaban la tarea en el viejo sistema debe hacerlo en el nuevo, y permite detectar situaciones diversas que permitiran probar el sistema y lograr que las resuelvan. Los datos ya pasan a ser reales, por lo que responde exactamente a lo que va ocurriendo en la empresa, usando el volumen de informacion con la que se trabaja, y se presenten situaciones especiales que ocurren en determinadas fechas. Al finalizar la prueba, se deja de procesar en el viejo sistema, aunque se recomienda que dicho sistema se mantenga en caso de necesitar informacion registrada en este ultimo. Por ultimo, se realiza un informe final, donde se hace mencion expresa de la forma en que se han cumplido con los requerimientos planteados y la manera en que se han alcanzado los objetivos propuestos.
+
+**Ventajas:**
+
+    - Permite demostrar el funcionamiento del sistema en una situacion real
+    - Documenta el cumplimiento de los requerimientos realizados
+    - Refuerza o reemplaza la capacitacion del personal
+    - Utiliza gran volumen de datos reales lo que ayuda a realizar controles de procesos
+    - Sirve para vencer la resistencia al cambio del personal
+    - Permite exponer explicitamente la forma en que se han alcanzado o no los cambios propuestos.
+
+**Desventajas:**
+
+    - Implica una importante asignacion de recursos, en especial en lo referido al personal
+    - Es una prueba de elevado costo
+    - Al usar datos reales, puede implicar que no ocurran determinadas situaciones que la prueba no evaluara
+    - Suele provocar alteraciones en la organizacion de la empresa
+    - Refuerza la resistencia al cambio por el aumento de las tareas a realizar y la sensacion de desorden que puede generarse
+
+Se trata de una prueba cuyas caracteristicas nos permiten afirmar que resulta imprescindible a la hora de demostrar el funcionamiento de los sistemas en la empresa.
 
 ## Documentacion
 
@@ -666,3 +685,57 @@ Se instalaran equipos, se acondicionaran locales, se tomaran cursos de capacitac
 ## Participantes
 
 Participan todos los involucrados tanto del area de sistemas como del area del usuario
+
+## Conversion
+
+La conversion de datos nos permite convertir la informacion adaptada al nuevo sistema. El analista tiene la posibilidad de opinar en este proceso para que la informacion quede expresada de tal forma que sirva mejor para la toma de decisiones. Lo aconsejable es generar procesos automaticos de conversion que tomen toda la informacion del sistema anterior y la conviertan al nuevo en un momento previamente establecido. Es un proceso muy costoso por la gran asignacion de recursos de desarrollo que insume. Por eso es que se debe evaluar el costo de hacer una conversion automatica a hacer una carga manual de datos. Al comenzar la operacion del nuevo sistema pueden ser que ya esten incorporados los datos historicos mediante una conversion previa, pero tambien existe la posibilidad de hacerlo en forma gradual y a partir de la puesta en marcha. Esta alternativa reduce los costos de conversion.
+
+### Tipos de tablas segun la informacion almacenada
+
+1. Auxiliares: Las tablas de este tipo suelen ser numerosas en los sistemas y dependera de la antiguedad del viejo sistema la necesidad de convertirlas. Hoy se recomienda adecuarlas a los formatos y requerimientos de los organismos de control. Partiendo de los datos del sistema anterior, se genera una **tabla de equivalencias** de las claves anteriores con las nuevas claves.
+2. Maestros: Cada campo debe ser analizado cuidadosamente y convertido segun su tipo y contenido. El campo clave debe estudiarse si se mantiene, modifica o autogenera. Segun el caso podria ser necesario convertir previamente las tablas de control.
+3. Operaciones - Movimientos: Las tablas de este tipo contienen el volumen mayor de datos de un sistema. La conversion sera necesaria cuando se decida conservar los movimientos historicos del sistema anterior incorporandolos al nuevo.
+4. Control: Suelen conservar un solo registro a menudo de un solo campo. Por lo tanto, las alternativas suelen ser:
+
+    - Convertirse
+    - Crearse a partir de la informacion generada durante la conversion
+    - Cargarse para iniciar el nuevo sistema
+
+5. Temporales: Son tablas que suelen crearse segun las necesidades de los procesos, por lo que en general no se convierten. Si el sistema lo requiere, la conversion se realiza considerando cada campo de la misma forma que en las tablas de movimientos.
+
+# Puesta en marcha
+
+Se basa en dar comienzo efectivo al sistema diseñado.
+
+## Objetivos
+
+Comenzar la operacion del nuevo sistema a partir del momento seleccionado como mas oportuno, o punto de corte.
+
+## Tareas
+
+- Iniciar la operacion del nuevo sistema
+- Mantener el funcionamiento del sistema a reemplazar hasta asegurar el correcto funcionamiento del nuevo
+- Controlar la puesta en marcha
+- Evaluar los primeros resultados.
+- Identificar y realizar los ajustes necesarios al nuevo sistema
+- Llevar a cabo la prueba de aceptacion
+- Corregir y completar los manuales de procedimiento y la documentacion pertinente
+- Entregar el nuevo sistema al usuario  
+
+## Herramientas a utilizar
+
+- Tecnicas de documentacion
+- Entrevistas
+- Observacion personal
+
+## Documentacion
+
+- Manuales: Incluye los manuales de uso y los tecnicos. Se trata que todos esten en linea y que la mayoria de las ayudas y explicaciones vayan acompañando la ejecucion del sistema.
+- Informe del usuario: Se detallan las diferencias detectadas por el usuario entre los **objetivos** y el **requerimiento** realizado y el resultado obtenido. Pueden ennumerarse tanto las diferencias por defecto como las diferencias en exceso.
+- Formulario de solicitud de mejoras o cambios: Permite sistematizar las solicitudes realizadas por la empresa para efectuar cambios o modificaciones al sistema  
+- Acta de recepcion del sistema: Como constancia para las partes, se elabora y firma un acta en el que la empresa recibe el sistema elaborado. Puede hacerse constar las observaciones pertinentes por ambas partes.  
+- Informe final del analista: Informe sobre los resultados obtenidos con la implementacion del nuevo sistema frente a las necesidades planteadas por la empresa al comenzar el proceso de **estudio de sistemas.**
+
+## Participantes
+
+Hay un alto grado de participacion del usuario directo y del analista de sistemas, con la supervisacion estricta del Jefe de Proyecto y comunicacion con el gerente, ademas de la participacion de programadores para efectuar los ajustes que surgiesen como necesarios.
