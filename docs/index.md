@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Bienvenidos a mi entorno de trabajo 
 
-You can use the [editor on GitHub](https://github.com/Axtris/Universidad/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+En este repositorio voy a estar guardando un backup de todos los resumenes que este haciendo en la carrera, asi como bibliografia y diferentes cosas que vayan surgiendo a lo largo del tiempo.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Resumenes 
 
-### Markdown
+Los resumenes en los que vaya trabajando van a estar en [este enlace.](https://github.com/Axtris/Universidad/tree/main/Resúmenes) Para modificaciones, hacer un **nuevo branch.** 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Documentacion 
 
-```markdown
-Syntax highlighted code block
+Tengo pendiente hacer la documentacion del repo, incluyendo lo necesario para trabajar con el mismo. 
 
-# Header 1
-## Header 2
-### Header 3
+### ¿Por que GitHub? 
 
-- Bulleted
-- List
+Los beneficios de GitHub con respecto a usar OneDrive, Google Drive o cualquier otro sistema son varios. Partiendo de la base de estar usando Markdown para los resumenes, usar un sistema de control de versiones me permite conocer en todo momento que es lo que estoy haciendo a lo largo del tiempo, ademas de poder realizar cambios en cualquier dispositivo, tener disponible la informacion de manera virtual y local, y poder sincronizar con los editores de texto que uso actualmente (Atom, Neovim y Obsidian). 
 
-1. Numbered
-2. List
+Ademas, es una buena herramienta para trabajar en grupo, dado que cada branch local tiene sus cambios segun la asignacion de trabajo y perspectiva usada. Permite debatir los cambios realizados, aportar otros cambios, y volver a una version anterior en caso de errores realizados. 
 
-**Bold** and _Italic_ and `Code` text
+Por ultimo, el beneficio de usar GitHub como servicio se traduce en tener un lector y editor de Markdown en linea, por lo que cualquier resumen publicado en el repositorio se puede leer desde cualquier dispositivo, sin necesidad de usar ningun programa en particular. 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Axtris/Universidad/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
