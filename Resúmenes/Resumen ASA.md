@@ -44,7 +44,7 @@ Cree tener una necesidad o problema y la transmite al *analista.*
 
 Dentro del proceso, cada parte puede tener una **interpretación** de las necesidades del usuario, que dificulta la realizacion de una solución satisfactoria. Para eliminar dicha interpretación, se utilizan ciertas **herrramientas de precisión** que determina los lineamientos de manera precisa.
 
-### Herramientas a utilizar {#Herramientasautilizar}
+### Herramientas a utilizar
 
 - **Entrevistas**
 - **Cuestionario**
@@ -207,7 +207,7 @@ Nos permite relevar toda la **informacion necesaria que permita evaluar el siste
 
 ## Herramientas
 
-Son las mismas herramientas que se usan en el [estudio preliminar,](#Herramientasautilizar) pero profundizando su empleo, aplicando el criterio de factorizacion progresiva, llegando hasta el ultimo detalle de cada componente.
+Son las mismas herramientas que se usan en el [estudio preliminar,](#Herramientas-a-utilizar) pero profundizando su empleo, aplicando el criterio de factorizacion progresiva, llegando hasta el ultimo detalle de cada componente.
 
 ## Documentacion
 
