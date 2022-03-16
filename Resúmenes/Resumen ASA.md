@@ -402,6 +402,7 @@ Se tratara de usar todas las herramientas disponibles, algunas sumamente tecnica
     > finsi
 
     | Herramienta | Lenguaje estructurado |
+    | -- | -- | 
     | Verificacion de la logica | Buena |
     | Representa toda la estructura logica | Muy buena |
     | Facilidad de uso | Buena |
