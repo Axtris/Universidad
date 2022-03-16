@@ -739,3 +739,113 @@ Comenzar la operacion del nuevo sistema a partir del momento seleccionado como m
 ## Participantes
 
 Hay un alto grado de participacion del usuario directo y del analista de sistemas, con la supervisacion estricta del Jefe de Proyecto y comunicacion con el gerente, ademas de la participacion de programadores para efectuar los ajustes que surgiesen como necesarios.
+
+# Cloud computing
+
+- Todos los recursos de informacion pueden ser almacenados en servidores de terceros y accesibles a traves de internet
+- Los proveedores disponen de centros de proceso de datos para dar servicio a multiples usuarios
+- A cambio, los clientes reciben un soporte flexible a las necesidades y particularidades de su actividad en cada momento.
+
+El **cloud computing** es la suma de la evolucion de varias tecnologias:
+
+- Aumento de la capacidad de procesamiento
+- Conexion a internet
+- Dispositivos moviles
+
+La computacion en la nube no sustituye ninguna arquitectura anterior, pero consigue cambiar la forma en la que se utilizan y entienden las aplicaciones informaticas, gracias a que permite aprovechar al maximo los puntos fuertes de Internet, los dispositivos moviles y los ordenadores personales.
+
+## Niveles de servicio
+
+![Niveles de servicio](https://raw.githubusercontent.com/Axtris/Universidad/main/Res%C3%BAmenes/images/Resumen%20ASA/Niveles_Servicio.png)
+
+A partir de las posibilidades de la tecnologia, los proveedores buscan llegar al usuario final. Por eso, cada vez brindan mas servicios segun las soluciones que ofrecen.
+
+## Modelos de despliegue de servicios
+
+- Nube publica: los recursos, procesos y datos se encuentran en manos de terceros, es ofrecida al publico, y tiene amplia escalabilidad
+- Nube privada: son aquellas creadas y administradas por una unica entidad que decide donde y como se ejecutan los procesos dentro de la nube
+- Nube comunitaria: son compartidas entre varias organizaciones que forman una comunidad con principios similares.
+- Nube hibrida: es la combinacion de dos o mas modelos
+
+La nube publica es mucho mas economica que la nube privada, a costa de una menor seguridad y agilidad.
+
+## Tipologia de proveedores
+
+Los servicios de **cloud hosting** son similares a los servicios ofrecidos por empresas de hosting tradicional. Los servicios de **cloud computing** permiten obtener una mayor personalizacion en la solucion informatica contratada.
+
+## Caracteristicas principales del cloud computing
+
+- Acceso ubicuo a los datos: Se puede acceder desde cualquier lugar a los datos. Solo se necesita un navegador web y conexion a internet para disfrutar de los servicios en la nube, sin necesidad de un sistema determinado.  
+- Aspectos economicos: Da una reduccion de costos tanto directos como indirectos. Una parte de los costos fijos pasan a ser costos variables, dado que se transforman en el pago de un servicio mensual, y en funcion de la evolucion de sus necesidades, se pueden aumentar o disminuir los recursos de procesamiento.   
+- Escalabilidad y flexibilidad: En el modelo tradicional, si se busca incrementar la capacidad se debe realizar el proceso de compra, instalar y poner a punto, y es muy complejo cambiar ante aumentos o reduccion de requerimientos. En cambio, con la computacion en la nube, ante diferentes cambios se contacta al proveedor, sin necesidad de instalar ni configurar nada, y en cualquier momento se puede cambiar ante aumentos o reducciones de requerimientos.
+- Deslocalizacion de datos y procesos: Se pierde el control sobre la localizacion de datos, aunque se mantiene el control sobre quien es capaz de acceder o modificar la informacion. Se pueden usar multiples copias de un servidor y repartirlas por centros de proceso de datos en distintos puntos para mejorar los tiempos de acceso de los usuarios. Esto facilita el mantenimiento de copias de seguridad no solo de datos sino del servidor entero, del sistema y los programas instalados en el. La localizacion de los datos puede incidir significativamente en el regimen juridico aplicable y en las condiciones del contrato.  
+- Dependencia de terceros: Existira una empresa contratada para proveer los servicios necesarios. Por un lado, se encargan de todo el mantenimiento de manera mas estricta que si lo hiciese la organizacion, se hospedan todos los datos y procesos que estan en la nube, compartiendo parte de su control con el usuario u organizacion, y el establecimiento de un nivel adecuado de transparencia en el mercado a la hora de negociar los terminos y condiciones en los contratos es fundamental para contrarrestar la falta de control derivada de la dependencia de terceros.
+
+## Riesgos del cloud computing
+
+Como toda tecnologia, el cloud computing no esta exento de riesgos. Cuanto mas compleja es la infraestructura usada, mas vulnerabilidades aparecen. Aun en la computacion en la nube queremos tener un plan de seguridad.
+
+- Abuso y uso malintencionado: las ventajas y oportunidades de tener estos sistemas tambien pueden ser aprovechadas por los piratas informaticos. Los ataques se vuelven mucho mas sencillos y baratos, dado que pueden atacar mas sistemas de esta manera. Se pueden contratar servicios en la nube para posteriormente ejecutarlos en cuestion de horas, y los recursos se pueden borrar una vez concluya el ataque, lo que dificulta mucho su persecucion.
+- Fugas internas de computacion: Puede venir de la propia empresa, bien por errores humanos, bien por accioens deliberadas de los usuarios del cloud. Estos incidentes desencadenan perdidas de informacion. Para evitar estas situaciones, las organizaciones utilizan medidas como la incorporacion de clausulas de confidencialidad en los contratos laborales o el establecimiento de politicas de seguridad.
+- APIs inseguras: Al ser las puertas de entrada hacia los servicios en la nube, se convierten en un punto critico de la seguridad y privacidad del sistema. Cada proveedor de servicios en la nube ofrece sus propias APIs de conexion que permiten desde arrancar o parar los servicios en la nube hasta aumentar o disminuir los recursos de los mismos. Sin una correcta politica de seguridad, las APIs pueden sufrir ataques de malware, lso atacantes persiguen el robo y/o acceso a la informacion de la victima.
+- Suplantacion de identidad: Es un riesgo presente tanto en los sistemas tradicionales como en el modelo del cloud computing. En la mayoria de los sistemas informaticos es necesario identificarse antes de realizar cualquier tarea. Habitualmente, esta identificacion se hace mediante usuario y contraseña. Esta combinacion puede no resultar lo suficientemente robusta, por lo que existen otros sistemas mas seguros.
+- Desconocimiento del perfil de riesgo: La gestion de la seguridad en los entornos informaticos tradicionales se ha estudiado durante mucho tiempo. Existen numerosas formas de aplicar soluciones informaticas para aumentar la seguridad, dificultando las entradas no autorizadas; o disminuir las vulnerabilidades del sistema. De todas formas, los riesgos y amenazas no desaparecen. El cloud computing ofrece nuevas funcionalidades e incrementa las oportunidades de negocio, y es un modelo que puede ser explotado por nuevas amenazas en la red. Si bien esto no significa que sea menos seguro que los modelos anteriores, se reconoce que hay menos experiencia de ataques, y hay mayores facilidades tecnologicas y de comunicacion. Los expertos en seguridad estudian los nuevos modos de operacion de los usuarios malintencionados, y los posibles fallos de diseño.
+
+## Seguridad en la nube
+
+Tenemos que elaborar un plan de seguridad, pero ahora orientado a la informacion. Usar los servicios en la nube conlleva un cambio en la forma de entender la seguridad informatica. Deja de existir la imagen tradicional en la que solo los administradores informaticos acceden a los servidores, y una parte de la seguridad recae sobre la empresa a la que contratamos los servicios en la nube.
+
+- Seguridad por parte del proveedor: Se encarga de garantizar la seguridad fisica en sus centros de procesos de datos. Debera impedir el acceso no autorizado para evitar robos, y debera tener los equipos actualizados para hacer frente a las amenazas informaticas. La virtualizacion puede ser vista como una forma de aumentar la seguridad de los procesos que se ejecutan en la nube, y varias maquinas virtuales pueden ser ejecutadas en un unico servidor pero cada maquina ejecuta diferentes sistemas operativos. La segmentacion de datos permite que los datos de un cliente residan en diferentes servidores, incluso en diferentes centros de datos.
+- Seguridad por parte del cliente: Por su parte, el cliente es responsable de mantener el sistema actualizado y los parches de seguridad que aparezcan instalados. Debe mantener politicas de seguridad tradicionales, tales como un control de usuario, borrar cuentas de usuario que ya no se usan, y revisar el software para comprobar que no tiene vulnerabilidades. Ademas, se debe tener un control de acceso, comprobando la actividad informatica, detectar incidentes y formular un plan de accion; encriptar la informacion para proporcionar un nivel de seguridad superior; y un control perimetral para evitar accesos indebidos desde otros lugares. Una correcta politica de copias de seguridad permite recuperar los datos aun cuando todas las medidas de seguridad fallaron o cuadno se produce una averia en el hardware.
+
+## Privacidad en la nube
+
+- Proteccion de datos: Los datos son preparados por el usuario en una base de datos adaptados para su uso en la nube, viajan a la nube a traves de una conexion a internet para transferirse a un servidor, se procesan en la nube ya sea en almacenamiento o en ejecucion de procesos, y viajan de vuelta al usuario con el valor añadido de la informacion generada en la nube.
+- Integridad: Los datos deben permanecer identicos durante las operaciones de transferencia, almacenamiento o recuperacion. Se hace un control de integridad, donde se usan funciones matematicas para verificar que los datos no se modificaron durante su traslado. Las copias de seguridad son la ultima linea de defensa para garantizar la integridad de los datos.
+- Control de acceso: Se requiere tener controles de acceso para poder evitar en la medida de lo posible accesos no autorizados y filtraciones, usando contraseñas y factores de verificacion.
+- Prevencion frente a perdida: Se debe tener una politica de seguridad que limite la libertad de los usuarios para borrar elementos del sistema, proteger los equipos ante el ataque de software, e impedir que personas ajenas a la organizacion accedan o corrompan los datos. Luego, con las copias de seguridad podemos recuperar los datos aun cuando todas las medidas de seguridad fallaron, o cuadno se produce una averia en el hardware. Dichas copias se deben hacer en funcion de un Sistema de Gestion de Seguridad de la Informacion \(SGSI)
+
+# Sistemas de Gestion de la Seguridad de la Informacion
+
+Un SGSI ayuda a las organizaciones a definir politicas, crear procedimientos y definir controles para reducir el riesgo manteniendolo dentro de los limites tolerables por cada una de ellas. Se trata de que cada organizacion conozca las amenazas asociadas con la seguridad de la informacion y que definan los procesos de gestion que hagan que los afecte en lo minimo posible.
+
+## Normas ISO 27001
+
+Especifica los requisitos necesarios para establecer, implantar, mantener y mejorar un SGSI segun el Ciclo de Deming o PDCA \(Planificar, hacer, verificar, actuar).
+
+- Planificar:
+
+    - Estudiar la situacion de la empresa
+    - Analizar el valor de la informacion y los riesgos a los que puede estar expuesta
+    - Estimar las medidas de seguridad para reducir al minimo los riesgos
+    - Definir los procedimientos de seguridad, la documentacion que se requerira, y los registros a crear para el control del sistema.
+
+- Hacer: Implementa las medidas de seguridad convirtiendo los planes en acciones respecto del hardware, software, instalaciones, informacion y las personas; y crear los documentos respecto de seguridad referidos a las politicas de seguridad, normas, procedimientos, instrucciones tecnicas, y politicas de uso.
+- Verificar:
+
+    - Evaluar las medidas de seguridad y controles que se implementan con el sistema de gestion
+    - Se usan registros de datos e incidencias e indicadores de funcionamiento
+    - Revisar la eficacia y eficiencia del sistema, las evaluaciones de riesgo, y los registros generados por el sistema.
+
+El procedimiento nunca termina y despues de actuar, se vuelve a planificar, renovando el ciclo.
+
+El objetivo de un SGSI esta en su propia definicion en la medida que procura organizar el diseño, la implementacion y el mantenimiento del conjunto de procesos que permitan el acceso a la informacion, garantizando la confidencialidad, integridad y disponibilidad de la misma. Busca tratar de minimizar los riesgos a los que la informacion se ve expuesta y de mantener el nivel de eficiencia independientemente de los cambios que sufra la organizacion. Deberia lograr reducir el riesgo por debajo del nivel de exposicion que esta dispuesto a asumir la organizacion.
+
+Los contenidos del SGSI comprenden lo definido por la ISO 27001:
+
+- Manual de seguridad \(nivel uno): es el documento que dirige y gobierna el SGSI, y que deberia proporcionar una rapida identificacion de los contenidos y estructura del sistema. Se definen de una manera precisa y clara el alcance, objetivos, intenciones, politicas, etc..., del SGSI. Mediante el manual se desea mostrar y determinar las directrices principales del sistema, asi como los objetivos, responsabilidades, intenciones, alcance, definiciones o politicas.
+- Procedimientos \(nivel dos): Nos permite controlar los procesos de seguridad de la informacion y su objetivo es garantizar que se realice una eficaz planificacion, control y operacion sobre ellos. En este nivel se agrupan todos los documentos relativos a los procedimientos a nivel operativo, asi como los procesos de control y operacion de los procesos propios de seguridad de la informacion.
+- Checklists y formularios \(nivel tres): Recogen datos e informacion de como se desempeñan todas las actividades que estan relacionadas con la seguridad de la informacion. Se incluyen todos los documentos que describen la manera de realizar las tareas y actividades directamente relacionadas con la seguridad de la informacion.
+- Registros \(nivel 4): Todos los documentos de registro se agrupan en el ultimo nivel. El objetivo de estos documentos es recoger pruebas y evidencias sobre el cumplimineto o no de los requisitos del SGSI, por lo que normalmente estan relacionados con documentos de otros tres niveles. Contienen evidencia objetiva del cumplimiento o no de los requerimientos del SGSI implantado, y pueden ser considerado como el output de los otros tres niveles de documentos.
+
+Definir el alcance de un SGSI es un aspecto critico del exito, dado que nos permite acotar las expectativas del sistema y esperar resultados en funcion de dicho alcance. Intentar que alcance a toda la empresa u organizacion puede no ser la mejor experiencia por lo que implica en la asignacion de recursos y por los cambios que repecutiran en todos los sectores. Un buen punto de partida para vencer resistencais es comenzar por aquellas partes de la organizacion en las que la seguridad aporte un mayor valor agregado. Algunos criterios que pueden tenerse en cuenta son:
+
+    - Agregarle valor a un servicio final, ya que la seguridad puede ser un atractivo para los clientes
+    - Reforzar procesos o servicios internos que impliquen una ventaja o mejora para la propia empresa, en especial en los sectores que son responsables del cuidado de la informacion o en otras areas como RRHH.
+    - Mejorar la gestion.
+
+## Conclusiones
+
+- Disponibilidad de la informacion: Mantener disponible la informacion para todos los niveles y usuarios de la empresa puede ser la diferencia entre poder operar normalmente o no. Puede ser la diferencia entre sobrevivir o no en el medio.
+- Seguridad y el personal de la informacion: Involucrar al personal de la empresa tanto durante su elaboracion y diseño como durante los procesos de recoleccion de registros y aplicacion. Ello conduce en forma directa a los profesionales de los sistemas de informacion que son los uqe tienen diversas responsabilidades en la planificacion y definicion de necesidades pero que tambien forman parte de la evaluacion y el control de resultados
+- Los SGSI como propuesta de contenidos: Si bien es un contenido muy especifico dentro de la formacion, debe considerarse su presentacion como una manera de tratar a la propia informacion que se encuentra almacenada en forma distribuida. De esa informacion dependen las oportunidades de negocios y el exito o fracaso de una organizacion, por lo que es imprescindible que todo el personal tome clara conciencia de ellos y que el SGSI marque las pautas para crecer en la seguridad. 
