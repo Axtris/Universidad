@@ -402,6 +402,7 @@ Se tratara de usar todas las herramientas disponibles, algunas sumamente tecnica
     > finsi
 
     | Herramienta | Lenguaje estructurado |
+    | -- | -- |
     | Verificacion de la logica | Buena |
     | Representa toda la estructura logica | Muy buena |
     | Facilidad de uso | Buena |
@@ -658,20 +659,20 @@ Se instalaran equipos, se acondicionaran locales, se tomaran cursos de capacitac
 
 **Ventajas:**
 
-    - Permite demostrar el funcionamiento del sistema en una situacion real
-    - Documenta el cumplimiento de los requerimientos realizados
-    - Refuerza o reemplaza la capacitacion del personal
-    - Utiliza gran volumen de datos reales lo que ayuda a realizar controles de procesos
-    - Sirve para vencer la resistencia al cambio del personal
-    - Permite exponer explicitamente la forma en que se han alcanzado o no los cambios propuestos.
+  - Permite demostrar el funcionamiento del sistema en una situacion real
+  - Documenta el cumplimiento de los requerimientos realizados
+  - Refuerza o reemplaza la capacitacion del personal
+  - Utiliza gran volumen de datos reales lo que ayuda a realizar controles de procesos
+  - Sirve para vencer la resistencia al cambio del personal
+  - Permite exponer explicitamente la forma en que se han alcanzado o no los cambios propuestos.
 
 **Desventajas:**
 
-    - Implica una importante asignacion de recursos, en especial en lo referido al personal
-    - Es una prueba de elevado costo
-    - Al usar datos reales, puede implicar que no ocurran determinadas situaciones que la prueba no evaluara
-    - Suele provocar alteraciones en la organizacion de la empresa
-    - Refuerza la resistencia al cambio por el aumento de las tareas a realizar y la sensacion de desorden que puede generarse
+  - Implica una importante asignacion de recursos, en especial en lo referido al personal
+  - Es una prueba de elevado costo
+  - Al usar datos reales, puede implicar que no ocurran determinadas situaciones que la prueba no evaluara
+  - Suele provocar alteraciones en la organizacion de la empresa
+  - Refuerza la resistencia al cambio por el aumento de las tareas a realizar y la sensacion de desorden que puede generarse
 
 Se trata de una prueba cuyas caracteristicas nos permiten afirmar que resulta imprescindible a la hora de demostrar el funcionamiento de los sistemas en la empresa.
 
@@ -848,4 +849,4 @@ Definir el alcance de un SGSI es un aspecto critico del exito, dado que nos perm
 
 - **Disponibilidad de la informacion:** Mantener disponible la informacion para todos los niveles y usuarios de la empresa puede ser la diferencia entre poder operar normalmente o no. Puede ser la diferencia entre sobrevivir o no en el medio.
 - **Seguridad y el personal de la informacion:** Involucrar al personal de la empresa tanto durante su elaboracion y diseño como durante los procesos de recoleccion de registros y aplicacion. Ello conduce en forma directa a los profesionales de los sistemas de informacion que son los uqe tienen diversas responsabilidades en la planificacion y definicion de necesidades pero que tambien forman parte de la evaluacion y el control de resultados
-- **Los SGSI como propuesta de contenidos:** Si bien es un contenido muy especifico dentro de la formacion, debe considerarse su presentacion como una manera de tratar a la propia informacion que se encuentra almacenada en forma distribuida. De esa informacion dependen las oportunidades de negocios y el exito o fracaso de una organizacion, por lo que es imprescindible que todo el personal tome clara conciencia de ellos y que el SGSI marque las pautas para crecer en la seguridad. 
+- **Los SGSI como propuesta de contenidos:** Si bien es un contenido muy especifico dentro de la formacion, debe considerarse su presentacion como una manera de tratar a la propia informacion que se encuentra almacenada en forma distribuida. De esa informacion dependen las oportunidades de negocios y el exito o fracaso de una organizacion, por lo que es imprescindible que todo el personal tome clara conciencia de ellos y que el SGSI marque las pautas para crecer en la seguridad.
