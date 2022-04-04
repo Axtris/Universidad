@@ -1,4 +1,4 @@
-# Normas contables - RT 6
+# Normas contables - RT 16
 
 ## Objetivos de los estados contables
 
