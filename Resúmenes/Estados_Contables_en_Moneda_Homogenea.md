@@ -1,5 +1,7 @@
 # Estados Contables en Moneda Homogenea - RT 6
 
+Es un procedimiento para poder adecuar las partidas a la moneda de cierre de los ejercicios, a fin de poder corregir la magnitud de la unidad de medida. No es una medicion de bienes, cuestion tratada en la RT 17, si no que es una adecuacion de las partidas valuadas en moneda historica a moneda homogenea. Es un metodo que permite calcular dicha reexpresion y el resultado de manera indirecta, pero carece de una forma directa que permita corroborar si esta bien hecha.
+
 ## Proceso secuencial
 
 El proceso de reexpresion consiste en:
@@ -29,7 +31,7 @@ Consiste en su descomposicion en partidas o grupos de partidas a efectos de reex
 
 ## Indice a emplear
 
-Se usa el indice de precios internos al por mayor **IPIM.**
+Se usa el indice de precios internos al por mayor **IPC.**
 
 ## Coeficiente de reexpresion
 
@@ -49,4 +51,4 @@ Se reexpresan todos los componentes del patrimonio neto al inicio, y el resultad
 
 ## Interrupcion y posterior reanudacion de los ajustes
 
-Cuando una entidad cesa en la preparacion y presentacion de EECC en moneda homogenea, debera tratar a las cifras reexpresadas hasta el momento de interrupcion de los ajustes como base para los siguientes EECC. En caso de reanudacion de reexpresion, los cambios seran desde la interrupcion del ajuste. 
+Cuando una entidad cesa en la preparacion y presentacion de EECC en moneda homogenea, debera tratar a las cifras reexpresadas hasta el momento de interrupcion de los ajustes como base para los siguientes EECC. En caso de reanudacion de reexpresion, los cambios seran desde la interrupcion del ajuste.
