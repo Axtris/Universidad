@@ -11,7 +11,7 @@ Se dividen en costos **historicos,** que son aquellos expresados al valor del mo
 
 ## Valores descontados
 
-Se usa para traer al presente valores del futuro. Se usa cuando no se conoce el **valor de contado** de un activo o pasivo pero se conoce el valor futuro, el cual incluye **costos financieros**. Para su determinacion, se debe contar con:
+Se usa para traer al presente valores del futuro. Se usa cuando no se conoce el **valor de contado** de un activo o pasivo pero se conoce el valor futuro, el cual incluye **costos financieros,** los cuales surgen por mantenimiento de los pasivos monetarios. Para su determinacion, se debe contar con:
 
 - Importe a descontar \(valuado a valores futuros)
 - Tasa de interes aplicable para el descuento
