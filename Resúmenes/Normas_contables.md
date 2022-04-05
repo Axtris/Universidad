@@ -20,7 +20,7 @@ Los EECC deben cumplir con ciertos **atributos** y **consideraciones** como requ
 
 ### Atributos
 
-- **Pertinencia:** La informacion debe ser apta para satisfacer las necesidades de los usuarios tipo. Dicha informacion debe:
+- **Pertinencia:** La informacion debe ser apta para satisfacer las necesidades de los usuarios tipo, en base a su caracter confirmatorio y predictivo. Dicha informacion debe:
 
     - Permitir a los usuarios confirmar o corregir evaluaciones realizadas
     - Ayudar a los usuarios a predecir las consecuencias futuras de los hechos pasados o presentes.
@@ -29,9 +29,9 @@ Los EECC deben cumplir con ciertos **atributos** y **consideraciones** como requ
 
     - *Aproximacion a la realidad:* Deben presentar descripciones y mediciones que correspondan razonablemente con los fenomenos que pretenden describir, por lo que no deben estar afectados por errores u omisiones importantes, ni por deformaciones que beneficien al ente. Esto se logra cumpliendo con:
         - *Esencialidad:* Las operaciones y hechos deben contabilizarse y exponerse basandose en su sustancia y realidad economica.
-        - *Neutralidad:* No debe estar deformada para favorecer al ente emisor o influir conductas de los usuarios hacia alguna direccion en particular.
+        - *Neutralidad:* Al estar frente a una alternativa de medicion, debo tomar la *menos sesgada.* No debe estar deformada para favorecer al ente emisor o influir conductas de los usuarios hacia alguna direccion en particular. Esto se relaciona a la hora de ser verficada por otros profesionales.
         - *Integridad:* Debe ser completa.
-    - *Verificabilidad:* La informacion debe ser susceptible de comprobacion por cualquier persona ajena al ente con conocimiento minimo de la materia.
+    - *Verificabilidad:* La informacion debe ser susceptible de comprobacion por cualquier persona ajena al ente con conocimiento minimo de la materia. Esto determina que las condiciones de aproximacion a la realidad sean correctas.
 
 - **Sistematicidad:** La informacion debe estar ordenada con base en las reglas contables.
 - **Comparabilidad:** Debe ser comparable con:
@@ -46,7 +46,7 @@ Para esto, se requiere que **esten expresados en la misma unidad de medida,** qu
 
 ### Restricciones que condicionan el logro de los Requisitos
 
-- **Oportunidad:** la informacion debe ser conveniente para los usuarios, de tal manera que permita tomar decisiones con base en la misma. Para esto, hay que balancear la confiabilidad de la informacion a presentar con la utilidad de la misma en el momento, en base a lo que mejor satisfaga las necesidades de los usuarios tipo.
+- **Oportunidad:** la informacion debe ser conveniente para los usuarios, de tal manera que permita tomar decisiones con base en la misma. Para esto, hay que balancear la confiabilidad de la informacion a presentar con la utilidad de la misma en el momento, en base a lo que mejor satisfaga las necesidades de los usuarios tipo para que puedan tomar las mejores decisiones.
 - **Equilibrio entre costos y beneficios:** El costo de obtener una informacion debe ser menor al beneficio de disponer de ella. Esto no significa que no se apliquen las normas contables por cuestiones de costo, pero si se pueden considerar procedimientos alternativos cuando son aceptados.
 - **Impracticabilidad:** La aplicacion de una norma o criterio sera impracticable cuando el ente no pueda aplicarlo tras efectuar todos los esfuerzos razonables para hacerlo.
 
