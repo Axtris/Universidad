@@ -96,5 +96,21 @@ La teoria del consumidor describe como asignan los consumidores su renta en los 
 Para el consumidor, la eleccion racional consiste en elegir la mejor canasta factible. El mapa de curvas de indiferencia indica como se ordenan las preferencias y la restriccion presupuestaria cuales son las combinaciones de bienes alcanzables. En equilibrio, el consumidor no puede encontrar otro punto en el que este mejor. El problema formal consiste en **maximizar la utilidad sujeto a la restriccion presupuestaria.** Seria un problema de optimizacion. La solucion se encuentra en donde la pendiente de la curva de indiferencia se encuentra con la pendiente de la restriccion presupuestaria:
 
 > Maximizar U=\(x,y) sujeto a P<sub>x</sub>X+P<sub>y</sub>Y=I
->
->ó L=U\(X,Y)
+
+Con esta optimizacion, tenemos dos condiciones:
+
+- Condiciones de primer orden \(necesarias pero no suficientes): En el equilibrio la utilidad marginal por unidad monetaria de gasto es igual para todos los bienes. La pendiente de la restriccion presupuestaria es igual a la pendiente de la curva de indiferencia, haciendo que se igualen las pendientes y se gaste todo el presupuesto.
+- Condicion de segundo orden: Si el hessiano orlado es > 0 tenemos una solucion en el maximo. Esta exige que las curvas de indiferencia sean convexas.
+
+A partir de cambiar el precio de un bien en el problema de eleccion del consumidor obtenemos la funcion de demanda de ese bien. A partir de cambiar el ingreso del consumidor obtenemos las curvas de Engel para cada bien. A partir de cambiar el precio de un bien obtenemos los cambios en la cantidad de otro bien, o efectos cruzados.
+
+**Efecto de variaciones en los precios:** Si el precio de x sube, pivotea la recta presupuestaria, rotando hacia adentro y generando una caida del poder adquisitivo, disminuyendo el nivel de utilidad porque accede a una curva de indiferencia mas baja. Si el precio baja, esta recta presupuestaria pivotea hacia afuera, aumentando el nivel de utilidad dado que puede acceder a una curva mas alta. Segun estos cambios, los bienes se pueden clasificar en:
+
+- Tipicos: al aumentar el precio la cantidad comprada disminuye, y viceversa.
+- Giffen: Al aumentar el precio la cantidad consumida aumenta.
+
+**Efecto de variaciones en el precio de otro bien:** En el equilibrio del consumidor podemos observar la relacion entre los bienes a partir de cambios en el precio de un bien.
+
+- Sustitutos: al aumentar el precio de un bien, aumenta la demanda del otro bien.
+- Complementarios: al aumentar el precio de un bien, disminuye la demanda del otro bien
+- Independientes: no importa que ocurra con el precio de un bien, no modifica la demanda del otro bien.
