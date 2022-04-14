@@ -114,3 +114,73 @@ A partir de cambiar el precio de un bien en el problema de eleccion del consumid
 - Sustitutos: al aumentar el precio de un bien, aumenta la demanda del otro bien.
 - Complementarios: al aumentar el precio de un bien, disminuye la demanda del otro bien
 - Independientes: no importa que ocurra con el precio de un bien, no modifica la demanda del otro bien.
+
+**Curva precio-consumo:** representa las combinaciones de X e Y maximizadoras de la utilidad correspondientes a todos los precios. Se obtiene a traves de la union de los puntos de equilibrio. Para esto, tenemos que derivar la curva de demanda individual.
+
+La demanda individual se compone de:
+
+> X<sup>D</sup> = f\(Precio, Psust, Pcompl, Gustos, Ingreso)
+
+- Un aumento de P<sub>x</sub> genera una reduccion de la cantidad demandada
+- Un aumento del resto de los factores genera un aumento de la demanda
+- Un aumento de los precios sustitutos, una disminucion de los precios complementarios, un aumento del ingreso o de los gustos por el bien provocan un desplazamiento hacia la derecha.
+- Si baja el precio del bien provoca un aumento de la cantidad demandada
+
+Cuando varia el ingreso obtenemos la curva ingreso-consumo que muestra las combinaciones de X e Y maximizadoras de la utilidad correspondientes a todos los niveles de renta o ingreso. Segun estos cambios los bienes pueden ser:
+
+- Normales: un aumento del ingreso provoca un aumento del consumo del bien
+- Inferiores: el aumento del ingreso provoca una disminucion en el consumo del bien.
+
+**Numeros indices:** es una medida estadistica que sirve para comparar una magnitud o conjunto de magnitudes en dos situaciones distintas, considerando una de ellas como referencia. Normalmente se comparan periodos de tiempo distintos.
+
+- Indices de precios: evaluan como evolucionan los precios de una canasta o conjunto de bienes.
+
+    - Por un lado, tenemos el IP de Laspeyres, donde comparamos los precios de una misma canasta de bienes fijada al inicio, permitiendonos indicar cuanto fue la inflacion en el periodo en base a dicha canasta.
+    - Por el otro lado, el IP de Paasche nos compara los precios pero actualizando la canasta de acuerdo a los cambios en las preferencias del consumidor.
+
+- Indices de cantidades: nos permite comparar, usando los indices anteriores, la diferencia de cantidades adquiridas por los consumidores usando precios base o precios actualizados, respectivamente.
+
+Para calcular un indice de precios es necesario determinar:
+
+- Un periodo base
+- UNa poblacion de referencia
+- Una region geografica definida
+- Una canasta de consumo.
+
+Para ello, se realizan encuestas de gasto en los hogares y encuestas de captacion de precios.  
+
+# Demanda de mercado
+
+La **demanda de mercado** describe *que cantidades consumen o compran los consumidores a distintos precios.* Es la suma horizontal de las demandas individuales. Relaciona la cantidad que compraran todos los consumidores de un bien en un mercado y su precio. Al sumarlas, suponemos que todos los individuos tienen las mismas preferencias. Al incluirlas, ya no podemos sumar las curvas de demanda.
+
+La demanda de una persona depende de la demanda de los otros. Existe una externalidad de red:
+
+- Positiva, o efecto arrastre:
+
+    - Cuando la cantidad de un bien demandada por un consumidor representativo aumenta en respuesta al crecimiento de las compras de otros
+    - Externalidad de red positiva
+    - Efecto moda
+    - La valoracion es mayor cuanto mas individuos poseen el bien
+    - Hace que la curva de demanda de mercado sea mas elastica
+
+- Negativa, o efecto snob:
+
+    - La cantidad de un bien demandada por un consumidor representativo disminuye frente al crecimiento de las compras de otros
+    - Externalidad de red negativa
+    - Se relaciona con el deseo de tener bienes exclusivos o unicos
+    - La cantidad demandada es mayor cuando menos personas poseen el bien
+    - La valoracion del bien disminuye a medida que aumenta la cantidad de consumidores
+    - Demanda de mercado menos elastica
+
+Para estimar la demanda, podemos usar el metodo estadistico. Si el precio es la unica variable, X=a-bP. Si se incluye el ingreso, X=a-bP+cI
+
+La **elasticidad** sirve para medir la variacion porcentual que experimenta una variable en relacion a otra. La **elasticidad precio de la demanda** mide la sensibilidad de la cantidad demandada respecto a variaciones en el precio del bien.
+
+- Nos sirve para evaluar si conviene o no aumentar los precios para incrementar los ingresos por ventas.
+- Mide la variacion de la cantidad demandada ante un incremento o reduccion de precios, es decir, cual es la sensibilidad de la cantidad demandada a las variaciones de precios.
+
+Para calcularla, sacamos el cociente del aumento de la cantidad demandada por el aumento del precio.
+
+- Si es elastica \(>1), la cantidad varia en mayor proporcion que el precio.
+- Si es inelastica, la cantidad varia en menor proporcion que el precio
+- Si fuese unitaria, su variacion seria en la misma proporcion. 
