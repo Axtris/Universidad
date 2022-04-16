@@ -183,4 +183,130 @@ Para calcularla, sacamos el cociente del aumento de la cantidad demandada por el
 
 - Si es elastica \(>1), la cantidad varia en mayor proporcion que el precio.
 - Si es inelastica, la cantidad varia en menor proporcion que el precio
-- Si fuese unitaria, su variacion seria en la misma proporcion. 
+- Si fuese unitaria, su variacion seria en la misma proporcion.
+- Cuando es **perfectamente elastica,** cualquier variacion del precio provocaria un enorme cambio en la demanda, haciendo que dicho bien solo se consuma a un determinado precio.
+- Por otro lado, si es **perfectamente inelastica,** la cantidad demandada es la misma independientemente del precio.
+
+Podemos medir la elasticidad en el punto o en el arco. Al medirla en el punto, tendremos la cantidad demandada al precio determinado. En cambio, al medirla en el arco, tenemos un promedio entre los dos puntos.
+
+Se puede ver la relacion entre la elasticidad precio de la demanda y el ingreso total usando la formula de Amoroso-Robinson, la cual describe la relacion entre precios, ingresos marginales y elasticidad de la demanda.
+
+- Cuando es elastica, el empresario puede aumentar los ingresos reduciendo el precio, dado que la cantidad aumenta en mayor proporcion que la caida en el precio.
+- Cuando es inelastica, si reduce el precio su ingreso total disminuye, dado que la cantidad aumenta en menor medida que el precio.
+- Cuando la elasticidad es unitaria, el ingreso total es el maximo, dado que es el punto medio de la demanda.
+
+Para conocer el precio que hace que el ingreso total sea el maximo, usando la funcion de demanda:
+
+- Despejamos P en funcion de la cantidad demandada x
+- Sabemos que el ingreso total es maximo cuando IMg = 0 \(en base a la formula Amoroso-Robinson)
+- Derivamos la funcion combinada de Px para obtener IMg \(Multiplicamos P por x)
+- Despejamos la x
+- Calculamos el precio en funcion de la calidad
+- Obtendremos el punto de interseccion donde el ingreso total sea el maximo.
+
+- **Ingreso total:** son los ingresos del empresario producto de las ventas. Se obtiene al multiplicar el precio por la cantidad vendida \(IT=PX). Suponemos que es igual al gasto total que realiza el consumidor.
+- **Ingreso medio:** Es el ingreso por unidad vendida, es decir, el precio del producto. Coincide con la demanda del bien.
+- **Ingreso marginal \(IMg):** Son los ingresos adicionales que se obtienen al vender una unidad mas de producto.
+
+**Determinantes de la elasticidad del precio de la demanda:**
+
+- Participacion de los bienes en el gasto del consumidor: A mayor participacion, mayor es la elasticidad.
+- Naturaleza de la necesidad: A mas necesidad, mas insensible es la demanda a variaciones de precio, por lo tanto menor elasticidad.
+- Cantidad de sustitutos: A mayor sustitucion, mayor elasticidad.
+- Tiempo: A mayor tiempo, mayor elasticidad, dado que los consumidores pueden adaptarse o bien surgen sustitutos del producto.
+
+**Elasticidad ingreso de la demanda:** mide la sensibilidad de la cantidad demandada en funcion de las variaciones en el ingreso. Se puede calcular tanto en el punto como en el arco promedio. Nos sirve para clasificar los bienes en funcion del ingreso en normales o inferiores.
+
+**Elasticidad cruzada de la demanda:** Mide la variacion porcentual de la cantidad demandada de un bien cuando varia el precio de otro bien. Nos permite diferenciar si son sustitutos, complementarios o independientes.
+
+**Elasticidad precio de la oferta:** Mide la sensibilidad de la cantidad ofrecida respecto a variaciones en el precio del bien. Nos permite calcular si es elastica, inelastica o unitaria, pero con pendiente positiva.
+
+# Teoria de la produccion
+
+**Metodo o proceso productivo:** es una combinacion de factores que permite obtener determinada cantidad de producto. Se puede representar como una funcion Q=f\(I<sub>1</sub>, I<sub>2</sub>,...)
+
+**Funcion de produccion:** Indica el nivel de produccion que puede obtener una empresa con una combinacion de factores o insumos productivos. Es una relacion tecnica que define lo maximo que se puede producir con determinada combinacion de factores productivos. Para simplificar, suponemos que existen dos factores: Trabajo **L** y Capital **K.**
+
+> Q = f\(K,L)
+
+En base a esto, podemos tener procesos mas intensivos en capital o mas intensivos en trabajo. Tenemos distintas opciones o procesos que combinan los factores en diferentes proporciones. Un metodo es tecnicamente eficiente respecto de otro si utiliza menor cantidad de un factor y lo mismo de otro. Es economicamente eficiente si usa la combinacion de factores que minimiza los costos de produccion. Estos costos dependen del precio de los factores.
+
+Podemos distinguir entre **corto y largo plazo.**
+
+- Corto plazo: No es posible alterar las cantidades de al menos uno de los factores de produccion. Al menos uno de los factores es fijo, y por lo general se lo relaciona con el capital, dado que esta se determina en la inversion inicial, y para cambiarla se necesita tiempo. Se toman decisiones de produccion.
+- Largo plazo: Se refiere al tiempo necesario para que todos los factores de produccion sean variables. Se toman decisiones de inversion ya que puedo decidir el stock de capital.
+
+La **funcion de produccion en el corto plazo** esta dada por **Q=f\(L)** dado que el capital es fijo. La produccion depende de la mano de obra empleada. El producto total es la maxima cantidad de producto que se puede obtener con un conjunto definido de factores, en este caso por unidad de L.
+
+- Producto medio \(PMe): es el nivel de produccion por unidad de trabajador. Se calcula como PMe=PT/L=Q/L
+- Producto marginal \(PMg): es la proporcion adicional que se obtiene al incorporar un trabajador mas. Es el aumento de Q obtenido cuando se aumenta L. Es la pendiente de la funcion de produccion.
+
+Cuando el PT crece a tasa creciente, PMg es positivo y creciente. Cuando crece a tasa decreciente, PMg sigue siendo positivo pero decrece, disminuyendo la proporcion a medida que se agrega L. El maximo del producto total se logra cuando PMg=0. Luego, PMg es negativo a medida que la produccion disminuye.
+
+En la produccion existen rendimientos marginales decrecientes. Comienzan a operar cuando PMg empieza a descender, manteniendose positivo. A medida que aumenta la cantidad del factor variable con el capital fijo llega un punto donde los aumentos de la produccion son cada vez mas pequeños. Tenemos 3 etapas:
+
+- Etapa 1: PMe y PMg crecen. Esta etapa termina cuando el PMe es maximo. PMe<PMg
+- Etapa 2: A partir del maximo del PMe hasta que PMg=0. PMe>PMg, pero se mantienen positivos.
+- Etapa 3: PMg<0, un aumento de L es ineficiente dado que disminuye el PT.
+
+Si consideramos la tecnologia como influyente en la produccion, tenemos que, si bien no elimina la ley de rendimientos decrecientes, al aumentar la misma permite realizar mayor produccion con la misma cantidad de trabajo. La funcion de produccion se desplaza hacia arriba. Las causas que la generan son:
+
+- Crecimiento del stock de capital
+- Cambio tecnologico que permita usar los factores de manera mas eficaz y realizar productos de mayor calidad.
+
+La **funcion de produccion a largo plazo** incorpora al capital dentro de la misma **\(Q=f\(K,L)),** en donde la empresa puede producir combinando distintas cantidades de K y L. Dicha funcion esta representada por curvas de nivel o isocuantas. La isocuanta muestra las diferentes combinaciones de K y L que permiten obtener el mismo nivel de produccion.
+
+- Mapa de isocuantas: cada isocuanta corresponde a un nivel de produccion diferente y el nivel de produccion aumenta a medida que nos desplazamos en sentido ascendente y a la derecha.
+- Zona economica: combinacion de factores tecnicamente eficientes. Pendiente de isocuanta es negativa
+- En el contorno: PMgL=0 o PMgK=0
+- Fuera de la zona economica, los rendimientos marginales son negativos y los metodos de produccion ineficientes.
+
+- Si el proceso tiene alto grado de sustitucion, las isocuantas son convexas al origen > Funcion Coob Douglas Q=K<sup>b</sup>L<sup>a</sup>
+- Si los factores son **sustitutos perfectos:** Isocuanta lineal > Q = 1/a L + 1/b K, donde 1/a y 1/b son las proporciones que se necesitan para realizar una unidad de producto.
+- Si los factores se combinan en proporciones fijas, no existe sustitucion. Las isocuantas son lineales. Q = Min \{1/a L; 1/b K}. Añadir una unidad mas de un factor sin aumentar el otro no aumentara la produccion.
+
+**Tasa marginal de sustitucion tecnica:** es la relacion a la que puede sustituir un factor por otro sin modificar el nivel de produccion. Es la pendiente de la isocuanta.
+
+**Sendero de expansion de la prodiccion:** Muestra cuales son los metodos de produccion economicamente eficientes considerando los precios de los factores como dados. Si represento el K fijo en la funcion de produccion de largo plazo, a partir del sendero podemos derivar la funcion de produccion del corto plazo.
+
+**Sendero de expansion de largo plazo:** se obtiene al unir los puntos de equilibrio de LP del productor que son procesos economicamente eficientes. El equilibrio es la tangencia entre la isocuanta y la restriccion de recursos. En el equilibrio el productor/empresa produce la mayor cantidad posible con los recursos disponibles. Estos recursos los destina a contratar L y K. Si cuenta con mas recursos puede producir mas, por eso se desplaza a lo largo del sendero de LP a mayores niveles de produccion.
+
+**Rendimientos a escala:** son un fenomeno de largo plazo. Podemos analizar cuanto varia la produccion cuando varian todos los factores productivos. Existen tres tipos de rendimientos a escala:
+
+- Constantes: Si ante un aumento de m unidades en los factores, la produccion aumenta en la misma proporcion. Q*=mQ
+- Crecientes: Ante un aumento de m unidades en los factores, la produccion aumenta en mayor proporcion que m. Q*>mQ
+- Decrecientes: El aumento en m unidades genera un aumento en la produccion en menor proporcion que m. Q*<mQ
+
+Si la funcion de produccion es homogenea, puedo conocer el grado de rendimientos a escala de esta manera:
+
+> Q=f\(K,L)=K<sup>a</sup>L<sup>b</sup>
+>
+>Q*=f\(mK;mL)=m\(K<sup>a</sup>L<sup>b</sup>)
+>
+>Q*=m<sup>a</sup>K<sup>a</sup>m<sup>b</sup>L<sup>b</sup> sumamos exponentes
+>
+>Q*=m<sup>a+b</sup>\(K<sup>a</sup>L<sup>b</sup>)
+
+- Si \(a+b)=1, tenemos rendimientos constantes
+- Si a+b>1, crecientes
+- Si a+b<1, decrecientes
+
+**Progreso tecnologico:** Se puede representar en el corto plazo por un desplazamiento de la funcion de produccion. Implica el descubrimiento de mejores metodos de produccion, de mejores tecnicas de organizacion, comercializacion, etc. Hace que la produccion sea mas eficiente, y puedo producir mas con la misma cantidad de factires, o producir lo mismo con menor cantidad de factores.
+
+**Innovacion en los procesos:** Se obtiene un mismo volumen de produccion con menos insumos de factores, o mayor produccion con los mismos insumos. En el corto plazo, aumenta la curva de produccion; mientras que en el largo plazo desplaza la isocuanta hacia el origen.
+
+Existen tres tipos de cambios tecnologicos:
+
+- Progreso tecnico neutral: el progreso tecnico aumenta la productividad del capital y del trabajo en la misma proporcion. K/L no se modifica porque no hay sustitucion entre factores, y la TMST no se modifica ya que existe la misma relacion K/L.
+- Progreso intensivo en K o ahorrador de L: aumenta la productividad del capital en mayor medida que la productividad del trabajo. El aumento de la produccion marginal de K es mayor que la de L. En el equilibrio se usa mas K y menos L, aumentando la relacion K/L, y disminuyendo la TMST.
+- Progreso intensivo en L o ahorrador de K: aumenta la productividad de la fuerza laboral en mayor medida que la productividad del capital. En el equilibrio se usa una mayor cantidad de L y una menor cantidad de K, disminuyendo la relacion K/L y aumentando la TMST.
+
+Para **maximizar beneficios,** se puede plantear de tres maneras:
+
+- Maximizar el beneficio sin restricciones: B=IT-CT o B=PQ-\(P<sub>L</sub>L + P<sub>K</sub>K)
+- Maximizar la produccion a un costo dado: Max Q SA CT = P<sub>L</sub>L + P<sub>K</sub>K
+- Minimizar el costo para alcanzar un nivel de produccion: Min CT SA Q\(K,L) = q
+
+En cualquiera de las tres formas lo que hacemos es encontrar las cantidades optimas de K y de L que resuelven cada problema. Primero tenemos que determinar la Recta de Recursos o Isocosto. Esta recta nos muestra el conjunto alcanzable para la empresa o la restriccion de recursos, determinado como el gasto en L y el gasto en K.
+
+# Teoria de los costos 
