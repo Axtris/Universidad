@@ -309,4 +309,180 @@ Para **maximizar beneficios,** se puede plantear de tres maneras:
 
 En cualquiera de las tres formas lo que hacemos es encontrar las cantidades optimas de K y de L que resuelven cada problema. Primero tenemos que determinar la Recta de Recursos o Isocosto. Esta recta nos muestra el conjunto alcanzable para la empresa o la restriccion de recursos, determinado como el gasto en L y el gasto en K.
 
-# Teoria de los costos 
+# Teoria de los costos
+
+Los costos son todas las erogaciones necesarias para la produccion y comercializacion de un bien. Se pueden clasificar en:
+
+- Costos totales: surgen de los EECC
+- Costos por naturaleza: materia prima, servicios de terceros, personal, costos financieros, amortizaciones, provisiones
+- Costos directos e indirectos: aquellos que pueden ser asignados con facilidad y en forma objetiva son los directos, el resto son indirectos
+- Costos fijos y variables: los costos fijos no guardan relacion con el nivel de actividad, mientras que los variables se correlacionan entre importe y cantidad directamente.
+
+Ademas, tomamos en cuenta el costo de oportunidad, el cual es el valor de las oportunidades que se pierden por dar a los recursos de la empresa un uso determinado.
+
+**Costos de corto plazo:**
+
+- Costos fijos y variables: CT = CF + CV
+
+    - CF Total = P<sub>k</sub>K. Es constante para todo nivel de produccion
+    - CFMe = CF/Q. Disminuye a medida que aumenta la produccion
+    - CV Total = P<sub>L</sub>L. Normalmente crece con el nivel de produccion.
+    - CVMe = CV/Q
+
+- Costo marginal y costo medio: el **costo marginal \(CMg)** es el aumento que experimenta el costo total cuando se produce una unidad mas. Es la pendiente de la curva de CT. El **costo total medio \(CTMe)** es el costo total de la empresa dividido por su nivel de produccion. Comprende el costo fijo medio \(CF/Q) mas el costo variable medio \(CV/Q).
+
+**Costos a largo plazo:** A largo plazo, la empresa puede variar todos los factores de produccion.
+
+- Costo medio de LP: es la envolvente de las curvas de costo medio de corto plazo, que son curvas que representan distintos tamaños de planta. Es una curva de planeamiento. Elegido el tamaño de la planta, la empresa opera en las curvas de costo a corto plazo que corresponden a ese tamaño de planta.   
+
+    - Los costos de corto plazo son mayores que los de largo plazo por la flexibilidad que tiene la empresa para adaptarse. Si tuvieramos rendimientos constantes a escala, la empresa puede variar la produccion sin modificar el CMe, por lo tanto el costo medio a largo plazo es horizontal.
+
+Segun la forma de la curva de CMeLP se puede ver el tipo de economias de escala que tiene la empresa:
+
+- Economias de escala: Situacion en la que la produccion puede duplicarse por menos que el doble del costo. CMe>CMg
+
+    - Al producir a mayor escala se logra mayor especializacion y productividad
+    - La escala puede dar flexibilidad: modificando la combinacion de factores puede mejorarse la organizacion.
+    - Se pueden adquirir los factores a un costo menor por las grandes cantidades.
+
+- Deseconomias de Escala: Una duplicacion de la produccion exige una duplicacion con creces de los costos. CMg>CMe
+
+    - A corto plazo el espacio fisico y la maquinaria pueden hacer que el trabajo sea dificultoso.
+    - Gestionar mayores dimensiones puede ser complejo e ineficiente cuando aumenta el numero de tareas
+    - Las ventajas de costos por grandes cantidades puede tener un limite porque la oferta del factor es limitada.
+
+Las economias de escala indican como evoluciona el CMe de produccion a medida que aumenta la escala productiva. Son economias internas a la organizacion, y se pueden medir a traves de la elasticidad del costo con respecto a la produccion. Esto es la variacion porcentual de los costos en relacion a la variacion porcentual de las cantidades producidas.
+
+- Si E<sub>C</sub> = 1, CMg = CMe, no hay economia ni deseconomia de escala. El aumento de los costos es identico al aumento de la produccion.
+- Si E<sub>C</sub> > 1, CMg > CMe, deseconomia de escala. Los costos aumentan en mayor proporcion que la produccion.
+- Si E<sub>C</sub> < 1, CMg < CMe, economia de escala. Se puede duplicar la produccion sin duplicar los costos.  
+
+Las economias de escala se pueden clasificar en:
+
+- Reales: Ahorros ligados a la reduccion en la cantidad fisica de insumos, mano de obra y materia prima.
+- Pecuniarias: provienen de ahorros monetarios o descuentos en los costos al operar a gran escala.
+
+**Economias de alcance:** Ahorros en los costos derivados de realizar dos actividades en forma conjunta, por sinergias o complementariedades.
+
+> EA = \[C\(q1)+C\(q2)-C\(q1,q2)]/C\(q1,q2)
+>
+> C\(q1) = costo de producir q1
+>
+> C\(q2) = costo de producir q2
+>
+> C\(q1,q2) = costo de producir conjuntamente q1 y q2
+
+- Si EA > 0, hay economias de alcance, dado que el costo conjunto es menor que los costos individuales.
+- Si EA < 0, hay deseconomias de alcance, por lo que no conviene producir en forma conjunta.
+
+**Curva de aprendizaje:** El costo medio de largo plazo puede disminuir con el paso del tiempo producto de la experiencia en la realizacion de tareas. Es consecuencia de la repeticion de tareas a lo largo del tiempo, y provoca un aumento de la productividad de la mano de obra como consecuencia de la experiencia en las tareas.
+
+> L = A + BN<sup>-b</sup>
+
+- N = Unidades acumuladas de produccion
+- L = cantidad de trabajo por unidad de produccion
+- A, B y b son constantes; A y B tienen signo positivo, b tiene valor entre 0 y 1.
+
+    - Si b = 0, la cantidad de trabajo por unidad de produccion no varia a medida que aumenta el nivel de produccion acumulado, por lo que no hay aprendizaje.
+    - Si b > 0 y N es cada vez mayor, L se vuelve arbitrariamente cercano a A, por lo que A representa la cantidad minima de trabajo por unidad de produccion una vez concluido el aprendizaje. A mayor b, mas importante es el efecto del aprendizaje.
+
+# Estructura de los mercados de bienes
+
+Los mercados pueden estudiarse de dos maneras:
+
+- Tomar una determinada forma de mercado y comenzar a describir sus caracteristicas
+- Comenzar a analizar determinadas caracteristicas/parametros, y luego determinar de que forma de mercado se trata, empleando el Paradigma Estructura-Conducta-Desempeño. Para esto se analiza:
+
+    - Poder para fijar el precio
+    - Grado de concentracion
+    - Grado de homogeneidad del producto
+    - Existencia de barreras de entrada y salida.
+
+Se hace referencia al numero de empresas que compiten en el mercado, el tamaño de las empresas, las condiciones tecnologicas y de costos, las condiciones de demanda, y la facilidad de entrada y salida del mercado.
+
+**Competencia perfecta:** Hay muchas empresas pequeñas que ofrecen el producto, hay muchos consumidores, existe informacion perfecta y todas las empresas tienen acceso a la misma tecnologia, las empresas no tienen poder para fijar el precio sino que el mercado lo determina a traves de la oferta y la demanda, el producto es homogeneo, y hay libre movilidad de factires y libre entrada y salida del mercado.
+
+**Monopolio:** Hay una unica empresa productora del bien que no tiene sustitutos, tiene poder para fijar el precio, existen barreras de entrada para el ingreso de nuevas empresas, y existe alta concentracion en el mercado.
+
+**Competencia monopolistica:** Hay muchas empresas productoras y muchos compradores, donde el bien esta diferenciado, por lo que su exito dependera de la diferenciacion del producto. El poder para fijar el precio depende de la diferenciacion, las barreras de entrada son bajas, y hay baja concentracion en el mercado.
+
+**Oligopolio:** Hay pocas empresas de capital intensivas y dominan el mercado, el producto puede ser homogeneo o diferenciado, existen altas barreras de entrada y de salida, el comportamiento de una empresa afecta las decisiones de las otras empresas, y existe alta concentracion en el mercado.
+
+**Paradigma estructura-conducta-desempeño:** Hay ciertas caracteristicas de los mercados que hacen que las firmas que alli operan se comporten de cierta forma. El comportamiento agregado de las empresas llevara a un determinado conjunto de resultados de mercado que pueden entenderse como indicadores de su funcionamiento en terminos del bienestar de los consumidores del bien o servicio en cuestion.
+
+- Estructura: describe el ambiente en el que compiten las empresas. Es el elemento menos dinamico del paradigma  
+
+    - El numero de empresas que compiten en el mercado
+    - El tamaño de las empresas
+    - Las condiciones tecnologicas y de costos
+    - Las condiciones de demanda
+    - La facilidad de entrada y salida del mercado
+
+- Conducta: es el comportamiento o estrategias que siguen las empresas.
+
+    - Los metodos y acciones que las empresas emplean al establecer los precios
+    - La cantidad producida.
+    - Las estrategias empresariales
+    - Los gastos de promocion de ventas y diseños de I&D.
+
+- Desempeño: hace referencia a los resultados y el bienestar social generado en el mercado.
+
+    - Nivel de beneficios
+    - Eficiencia y equidad
+    - Crecimiento
+    - Ocupacion de los factores y el nivel de empleo
+    - Excedentes del productor y del consumidor.
+
+Para evaluar la situacion de las empresas y del mercado se pueden usar indicadores.
+
+**Concentracion en la industria:** Los indicadores de concentracion son ratios que miden la proporcion de la produccion o ventas que controlan las empresas mas grandes.
+
+- Ratio de concentracion: es el porcentaje de las ventas totales generado por las cuatro empresas mas grandes. Es la suma de las participaciones de las empresas en las ventas totales.
+
+    - Cuando hay muchas empresas, C=0
+    - Cuando 4 o menos controlan el mercado, C=100
+    - C>60% mercados de alta concentracion, poco competitivos.
+
+- Indice Herfindahl-Hirschman: es una medida del grado de concentracion usado por las autoridades de control de la competencia para autorizar fusiones y adquisiciones. Se calcula como la suma de los porcentajes de participacion de las empresas al cuadrado.
+
+    - Muchas empresas, IHH=0
+    - Monopolio, IHH=10000
+
+        - IHH < 1000, poco concentrado
+        - IHH entre 1000 y 1800, competencia monopolistica
+        - IHH > 1800 concentrado, tienen poder de mercado
+        - IHH > 2500 oligopolio
+
+- Indice de Lerner: Mide el grado de poder de monopolio, midiendo la diferencia entre el precio y el costo marginal en proporcion al precio del producto. Cuanto mayor es la elasticidad precio de la demanda, menor es el poder para fijar precios.
+
+> L = \(P-CMg)/P = 1/|n|
+
+Es un valor entre 0 y 1. Si la empresa fija P = CMg, L = 0. Si puede fijar el precio, P > CMg, por lo que L > 0. L = 1, es un monopolio. A mayor L mayor es el poder del monopolio
+
+**Fuerzas competitivas de Porter:** Para realizar un analisis compotitivo del sector o mercado se suelen tener en cuenta las fuerzas competitivas. Estas fuerzas permiten analizar el entorno de la empresa e identificar las capacidades que tiene para competir en el mercado.  
+
+    - Rivalidad: analiza el comportamiento de la empresa en el mercado
+
+        - Concentracion del mercado/sector/industria
+        - Diferenciacion respecto a la competencia
+        - Ventaja en costos
+        - Precio y calidad respecto a los competidores
+        - Poder para fijar precios
+
+    - Potenciales: se evalua la amenaza de entrada de nuevas empresas al mercado.
+
+        - Economias de escala
+        - Identidad de la marca
+        - Necesidad de capital para ingresar
+        - Ventajas de costos de las empresas instaladas
+        - Restricciones legales que impiden el ingreso
+
+    - Sustitutos: evaluo la amenaza de entrada
+    - Proveedores: evaluo el poder de negociacion de los proveedores
+    - Clientes: evaluo el poder de negociacion de los compradores
+
+# Competencia perfecta
+
+**Caracteristicas:**
+
+- Producto homogeneo: todas las empresas producen un bien identico, por lo tanto los consumidores solo miran el precio para decidir la compra. Garantiza la existencia de un precio unico en el mercado.  
