@@ -35,11 +35,11 @@ Tomando en cuenta todo esto, se plantean los siguientes criterios de medicion:
 - **Creditos originados en transacciones financieras:** Valuo de acuerdo a la suma entregada, o a su valor descontado
 - **Creditos por refinanciaciones:** De la misma manera que las transacciones financieras, con la particularidad de que, en caso de que el valor descontado de la refinanciacion sea diferente al del credito original en un 10%, se lo considera como un credito nuevo, dando de baja al credito anterior. Esto puede generar un resultado por refinanciacion, el cual surge de comparar el valor descontado con la refinanciacion realizada.
 - **Otros creditos en moneda:** se mediran aplicando el valor descontado.
-- **Creditos en especie:** se mediran segun la medicion contable inicial de los bienes a recibir. Si congela o no no afecta al credito, si no al pasivo del mismo, dado que es un activo no monetario. 
+- **Creditos en especie:** se mediran segun la medicion contable inicial de los bienes a recibir. Si congela o no no afecta al credito, si no al pasivo del mismo, dado que es un activo no monetario.
 
 ## Mediciones periodicas
 
-- **Cuentas a cobrar en moneda:** Segun su destino, se mediran a su VNR en caso de haber posibilidad de negociacion, o a su valor amortizado o descontado caso contrario.
+- **Cuentas a cobrar en moneda:** Segun su destino, se mediran a su VNR en caso de haber posibilidad de negociacion, o a su valor amortizado o descontado caso contrario. Si medimos el credito a su VNR, tenemos que considerar la diferencia entre el valor descontado y el valor del activo neto de intereses a cobrar como una prevision, dado que dicho documento no fue descontado todavia.
 - **Otros creditos en moneda:** En funcion del destino, si existe intencion de negociarlo, a su VNR. Caso contrario, se efectuara sobre la base de la mejor estimacion posible de la suma a cobrar, usando la tasa aplicada en la medicion inicial, o la tasa que hubiese correspondido.
 - **Creditos en especie:** Se usan las mediciones correspondientes a los bienes o servicios a recibir.
 
