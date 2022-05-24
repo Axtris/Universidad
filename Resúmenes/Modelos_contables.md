@@ -32,8 +32,8 @@ El **sistema de medicion contable** requiere de distintos elementos para su func
 
 3. Criterio de medicion: cada activo, pasivo, ingreso o costo debe ser valuado o medido, expresado en terminos monetarios de la unidad de medida, y para ello existen alternativas:
 
-    a. Costo historico, donde se aplican las mediciones iniciales a cada momento en el futuro que se deba efectuar una medicion
-    b. Valores corrientes, donde aplicamos valores representativos en cada momento que efectuamos la medicion.
+    1. Costo historico, donde se aplican las mediciones iniciales a cada momento en el futuro que se deba efectuar una medicion
+    2. Valores corrientes, donde aplicamos valores representativos en cada momento que efectuamos la medicion.
 
 4. Unidad de tiempo: periodo durante el cual va a medirse la evolucion del patrimonio
 
@@ -104,4 +104,4 @@ Consiste en elegir una moneda de cuenta para valuar los elementos patrimoniales,
     - Valor actual
     - VPP, el cual es *la participacion sobre el PN de la sociedad emisora en la cual se tiene participacion permanente.*
 
-- **Resultado por tenencia:** Surge de la comparacion entre el valor corriente y el costo a un momento determinado de un bien cuya condicion no ha cambiado. 
+- **Resultado por tenencia:** Surge de la comparacion entre el valor corriente y el costo a un momento determinado de un bien cuya condicion no ha cambiado.
